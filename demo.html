@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<html lang="es"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Archivo Literario Minimalista</title>
+<!-- Tailwind CSS v3 CDN with plugins -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<!-- Configuration for custom font-family (Modern Sans-Serif) -->
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+          },
+        },
+      },
+    }
+  </script>
+<!-- BEGIN: Custom Style Overrides -->
+<style data-purpose="typography">
+    /* Ensuring absolute minimalism in typography inspired by high-end design portfolios */
+    body {
+      background-color: #ffffff;
+      color: #000000;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    .archive-link {
+      transition: opacity 0.3s ease-in-out;
+    }
+    .archive-link:hover {
+      opacity: 0.5;
+    }
+  </style>
+<style data-purpose="layout-dividers">
+    /* Custom thin dividers to match high-end minimalist aesthetic */
+    .thin-divider {
+      height: 1px;
+      background-color: #000000;
+      width: 100%;
+      border: none;
+      margin: 0;
+    }
+  </style>
+<!-- END: Custom Style Overrides -->
+</head>
+<body class="font-sans selection:bg-black selection:text-white">
+<!-- BEGIN: MainHeader -->
+<header class="pt-12 pb-24 px-6 md:px-12 lg:px-24" data-purpose="site-navigation">
+<nav class="flex justify-between items-baseline">
+<!-- Site Title / Logo as text -->
+<h1 class="text-xs font-bold uppercase tracking-[0.2em]">
+<a class="hover:opacity-60 transition-opacity" href="#">ARCHIVO / MANUSCRITO DIGITAL</a>
+</h1>
+<!-- Primary Navigation Links -->
+<ul class="flex gap-8 text-[10px] font-medium uppercase tracking-widest">
+<li><a class="hover:line-through" href="#">ENSAYOS</a></li>
+<li><a class="hover:line-through" href="#">FICCIÓN</a></li>
+<li><a class="hover:line-through" href="#">ACERCA DE</a></li>
+</ul>
+</nav>
+</header>
+<!-- END: MainHeader -->
+<!-- BEGIN: MainContent -->
+<main class="px-6 md:px-12 lg:px-24 pb-32" data-purpose="essay-list">
+<!-- Section: Selected Works -->
+<section id="selected-works">
+<div class="mb-12">
+<h2 class="text-[10px] uppercase tracking-[0.3em] font-semibold mb-4">NARRATIVAS DESTACADAS</h2>
+<hr class="thin-divider"/>
+</div>
+<!-- List of Articles -->
+<div class="grid grid-cols-1 gap-y-16 lg:gap-y-24">
+<!-- Article Entry 01 -->
+<article class="group" data-purpose="archive-entry">
+<a class="archive-link block" href="#">
+<div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+<span class="text-[10px] uppercase tracking-tighter w-12 pt-4">001</span>
+<div class="flex-grow max-w-4xl">
+<h3 class="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6">
+                The architecture of silence in modern prose.
+              </h3>
+<p class="text-sm md:text-base text-black/60 font-light leading-relaxed max-w-2xl">
+                Una exploración sobre los espacios no escritos y cómo la ausencia de lenguaje estructura la experiencia del lector en la narrativa contemporánea.
+              </p>
+</div>
+<span class="text-[10px] uppercase tracking-widest text-right pt-4 whitespace-nowrap">2024 — ENSAYO</span>
+</div>
+</a>
+</article>
+<hr class="thin-divider opacity-10"/>
+<!-- Article Entry 02 -->
+<article class="group" data-purpose="archive-entry">
+<a class="archive-link block" href="#">
+<div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+<span class="text-[10px] uppercase tracking-tighter w-12 pt-4">002</span>
+<div class="flex-grow max-w-4xl">
+<h3 class="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6">
+                Peripheral vision and the short story form.
+              </h3>
+<p class="text-sm md:text-base text-black/60 font-light leading-relaxed max-w-2xl">
+                Consideraciones sobre lo que sucede en los márgenes del relato y la importancia de los detalles observados de reojo.
+              </p>
+</div>
+<span class="text-[10px] uppercase tracking-widest text-right pt-4 whitespace-nowrap">2023 — FICCIÓN</span>
+</div>
+</a>
+</article>
+<hr class="thin-divider opacity-10"/>
+<!-- Article Entry 03 -->
+<article class="group" data-purpose="archive-entry">
+<a class="archive-link block" href="#">
+<div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+<span class="text-[10px] uppercase tracking-tighter w-12 pt-4">003</span>
+<div class="flex-grow max-w-4xl">
+<h3 class="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6">
+                Notes on the digital manuscript aesthetic.
+              </h3>
+<p class="text-sm md:text-base text-black/60 font-light leading-relaxed max-w-2xl">
+                Análisis de la transición táctil a lo etéreo: cómo la interfaz digital redefine nuestra percepción de la autoría.
+              </p>
+</div>
+<span class="text-[10px] uppercase tracking-widest text-right pt-4 whitespace-nowrap">2023 — TEORÍA</span>
+</div>
+</a>
+</article>
+<hr class="thin-divider opacity-10"/>
+<!-- Article Entry 04 -->
+<article class="group" data-purpose="archive-entry">
+<a class="archive-link block" href="#">
+<div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+<span class="text-[10px] uppercase tracking-tighter w-12 pt-4">004</span>
+<div class="flex-grow max-w-4xl">
+<h3 class="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6">
+                Fragments of a localized memory.
+              </h3>
+<p class="text-sm md:text-base text-black/60 font-light leading-relaxed max-w-2xl">
+                Breves anotaciones sobre la geografía emocional y los objetos que anclan nuestros recuerdos en espacios específicos.
+              </p>
+</div>
+<span class="text-[10px] uppercase tracking-widest text-right pt-4 whitespace-nowrap">2022 — RELATO</span>
+</div>
+</a>
+</article>
+</div>
+</section>
+<!-- BEGIN: JournalSection -->
+<section class="mt-48 grid grid-cols-1 md:grid-cols-12 gap-8" id="journal">
+<!-- Left sidebar heading -->
+<aside class="md:col-span-3">
+<h2 class="text-[10px] uppercase tracking-[0.3em] font-semibold sticky top-12">CRÓNICAS</h2>
+</aside>
+<!-- Right content list (more compact) -->
+<div class="md:col-span-9 space-y-12">
+<div class="group" data-purpose="journal-link">
+<p class="text-[10px] mb-2">12 de Octubre</p>
+<a class="text-xl hover:line-through decoration-1" href="#">Sobre la necesidad del papel físico en una era digital.</a>
+</div>
+<div class="group" data-purpose="journal-link">
+<p class="text-[10px] mb-2">28 de Septiembre</p>
+<a class="text-xl hover:line-through decoration-1" href="#">Observaciones desde la biblioteca de San Galo.</a>
+</div>
+<div class="group" data-purpose="journal-link">
+<p class="text-[10px] mb-2">05 de Agosto</p>
+<a class="text-xl hover:line-through decoration-1" href="#">Una taxonomía de conversaciones perdidas.</a>
+</div>
+</div>
+</section>
+<!-- END: JournalSection -->
+</main>
+<!-- END: MainContent -->
+<!-- BEGIN: SiteFooter -->
+<footer class="px-6 md:px-12 lg:px-24 py-12 border-t border-black/10" data-purpose="site-info">
+<div class="flex flex-col md:flex-row justify-between items-start md:items-end gap-12">
+<div class="max-w-sm">
+<p class="text-[10px] uppercase tracking-widest leading-relaxed">
+          Una colección de escritos centrados en el minimalismo, la literatura y la intersección de la forma física y digital.
+        </p>
+</div>
+<div class="flex flex-col gap-4 items-start md:items-end">
+<div class="flex gap-6 text-[10px] uppercase tracking-widest">
+<a class="hover:underline" href="#">Instagram</a>
+<a class="hover:underline" href="#">Newsletter</a>
+<a class="hover:underline" href="#">RSS</a>
+</div>
+<p class="text-[10px] opacity-40">© 2024 Archivo. Todos los derechos reservados.</p>
+</div>
+</div>
+</footer>
+<!-- END: SiteFooter -->
+</body></html>
