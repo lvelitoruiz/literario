@@ -135,6 +135,18 @@ export const articles: Article[] = [
     publishedAt: "11 de Marzo, 2026",
   },
   {
+    id: "033",
+    slug: "por-si-te-caes",
+    indexNumber: "033",
+    year: "2026",
+    kind: "ENSAYO",
+    title: "Por si te caes",
+    summary:
+      "Una carta que prepara colchones de palabras, cuadernos y hojas de helecho por si ella cae, para que nunca se golpee sola al bajar de ese altar.",
+    author: "Luis",
+    publishedAt: "11 de Marzo, 2026",
+  },
+  {
     id: "011",
     slug: "canela",
     indexNumber: "011",
