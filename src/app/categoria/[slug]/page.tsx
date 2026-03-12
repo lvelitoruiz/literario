@@ -1,4 +1,5 @@
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
+import { cookies } from "next/headers";
 import Link from "next/link";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
@@ -34,6 +35,16 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
 
   if (!config) {
     notFound();
+  }
+
+  // Protección simple: si es la categoría HAYLA, exige cookie de acceso
+  if (slug === "hayla") {
+    const cookieStore = await cookies();
+    const token = cookieStore.get("hayla_auth")?.value;
+
+    if (token !== "ok") {
+      redirect(`/hayla-acceso?from=/categoria/hayla`);
+    }
   }
 
   const filteredArticles = [...articles]
