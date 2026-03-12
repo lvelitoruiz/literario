@@ -1,5 +1,3 @@
-# Ciertos Rituales Breves
-
 **Sobre duendes, creo…**
 
 Hay alguien que arranca las hojas que escribo, que se come mis ideas, que me

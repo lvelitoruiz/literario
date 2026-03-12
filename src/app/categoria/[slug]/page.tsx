@@ -14,6 +14,7 @@ const CATEGORY_CONFIG: Record<
   cronicas: { label: "Crónicas", kinds: ["CRÓNICA"] },
   teoria: { label: "Teoría", kinds: ["TEORÍA"] },
   relatos: { label: "Relatos", kinds: ["RELATO"] },
+  hayla: { label: "Hayla", kinds: ["HAYLA"] },
 };
 
 export async function generateStaticParams() {

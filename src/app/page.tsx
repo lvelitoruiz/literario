@@ -9,7 +9,7 @@ export default function Home() {
   const ordered = [...articles].reverse();
 
   const narrativeArticles = ordered.filter(
-    (article) => article.kind !== "CRÓNICA",
+    (article) => article.kind !== "CRÓNICA" && article.kind !== "HAYLA",
   );
   const chronicleArticles = ordered.filter(
     (article) => article.kind === "CRÓNICA",
