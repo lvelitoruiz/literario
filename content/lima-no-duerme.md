@@ -1,0 +1,7 @@
+Lima no duerme. Encerrado entre los sueños que Lima no tiene, en este laberinto cuyos caminos llevan al exterior, para no volver y mirar su propio herido cuerpo, escucho entre su ruido: el suicidio de tantos rituales paganos, cristos falsos, falsos profetas y otros mártires.
+Las líneas de las vías peligrosamente se juntan hasta formar la red de costras de esta Lima que tapa sus falsos estigmas. En ellas yo soy el dedo que recorre sus arterias, con mi chalina en la cara y la misma cara de conmiseración que estampo como besos en cada rincón donde veo la podredumbre de tus sarnas tan queridas.
+En un cielo estrellado que realmente no debería existir, Lima (¿Babel?) espera el día, toca su propia sombra y se espanta. Sin rumbo me pierdo en calles que no recuerdo tan cercanas. (¿O es Lima quizá quien ya no me recuerda?)
+Víctima de insomnio. Miro mi propio reflejo empañado, acaricio mi pupila marrón, mi retina roja que se abre, se cierra, estalla y refracta la luz de estas calles de faroles rojos y calles oscuras que dan a todas las escaleras, como laberintos que no terminan. (¿Cómo me llamaba, sigue siendo mi nombre?)
+Y otra vez: un, dos, tres, ya. Lima no duerme. Todos respiran al mismo tiempo en Lima. Algunos, como yo, escupen. De lejos se oye. En una noche sospechosamente estrellada me pregunto ¿Estoy aquí realmente? No recuerdo haber entrado jamás.
+En algún lugar, un paro cardiorrespiratorio.
+

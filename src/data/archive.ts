@@ -75,6 +75,18 @@ export const articles: Article[] = [
     publishedAt: "11 de Marzo, 2026",
   },
   {
+    id: "034",
+    slug: "lima-no-duerme",
+    indexNumber: "034",
+    year: "2026",
+    kind: "ENSAYO",
+    title: "Lima no duerme",
+    summary:
+      "Un recorrido insomne por una Lima herida y pagana, cuyos rituales, costras y faroles rojos se confunden con la propia retina del narrador.",
+    author: "Luis",
+    publishedAt: "11 de Marzo, 2026",
+  },
+  {
     id: "006",
     slug: "walk",
     indexNumber: "006",
