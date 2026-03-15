@@ -422,5 +422,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "14 de Febrero, 2026",
   },
+  {
+    id: "035",
+    slug: "horrible-thing",
+    indexNumber: "035",
+    year: "2026",
+    kind: "HAYLA",
+    title: "Horrible thing",
+    summary:
+      "Una carta de culpa y duelo por haber malogrado lo que prometió cuidar, con la puerta abierta a que ella vuelva a reclamar su amor.",
+    author: "Luis",
+    publishedAt: "14 de Febrero, 2026",
+  },
 ];
 
