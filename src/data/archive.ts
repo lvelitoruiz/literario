@@ -147,18 +147,6 @@ export const articles: Article[] = [
     publishedAt: "11 de Marzo, 2026",
   },
   {
-    id: "033",
-    slug: "por-si-te-caes",
-    indexNumber: "033",
-    year: "2026",
-    kind: "ENSAYO",
-    title: "Por si te caes",
-    summary:
-      "Una carta que prepara colchones de palabras, cuadernos y hojas de helecho por si ella cae, para que nunca se golpee sola al bajar de ese altar.",
-    author: "Luis",
-    publishedAt: "11 de Marzo, 2026",
-  },
-  {
     id: "011",
     slug: "canela",
     indexNumber: "011",
@@ -167,6 +155,18 @@ export const articles: Article[] = [
     title: "Canela",
     summary:
       "Un recuerdo de besos con sabor a canela, una despedida en taxi y la búsqueda imposible de un cigarrillo que prolongue esa ausencia.",
+    author: "Luis",
+    publishedAt: "11 de Marzo, 2026",
+  },
+  {
+    id: "033",
+    slug: "por-si-te-caes",
+    indexNumber: "033",
+    year: "2026",
+    kind: "ENSAYO",
+    title: "Por si te caes",
+    summary:
+      "Una carta que prepara colchones de palabras, cuadernos y hojas de helecho por si ella cae, para que nunca se golpee sola al bajar de ese altar.",
     author: "Luis",
     publishedAt: "11 de Marzo, 2026",
   },
@@ -439,7 +439,7 @@ export const articles: Article[] = [
     slug: "cositas-bonitas-flor-marchita",
     indexNumber: "036",
     year: "2026",
-    kind: "HAYLA",
+    kind: "FICCIÓN",
     title: "Cositas bonitas, flor marchita",
     summary:
       "Un lamento por los restos de un amor que se fue, entre pingüinos infieles, cigarros intactos y un mundo de ternuras que ya no se terminará de construir.",
