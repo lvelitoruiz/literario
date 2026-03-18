@@ -147,6 +147,18 @@ export const articles: Article[] = [
     publishedAt: "11 de Marzo, 2026",
   },
   {
+    id: "038",
+    slug: "la-tranquilidad-del-hogar-esta-en-llamas",
+    indexNumber: "038",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "La tranquilidad del hogar está en llamas",
+    summary:
+      "Un convaleciente garabatea un colchón quemándose y deja que el artificio sostenga una Lima gris que arde en faroles rojos.",
+    author: "Luis",
+    publishedAt: "11 de Marzo, 2026",
+  },
+  {
     id: "011",
     slug: "canela",
     indexNumber: "011",
