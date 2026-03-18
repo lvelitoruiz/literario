@@ -446,5 +446,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "14 de Febrero, 2026",
   },
+  {
+    id: "037",
+    slug: "recuento-de-danos",
+    indexNumber: "037",
+    year: "2026",
+    kind: "CRÓNICA",
+    title: "Recuento de daños",
+    summary:
+      "Una nota breve sobre cómo el archivo pasó de promesa a recordatorio: llorar, corregir en automático y asumir la tristeza como una forma de continuar.",
+    author: "Luis",
+    publishedAt: "11 de Marzo, 2026",
+  },
 ];
 
