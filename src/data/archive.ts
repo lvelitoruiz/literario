@@ -470,5 +470,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "11 de Marzo, 2026",
   },
+  {
+    id: "039",
+    slug: "quincena-de-diciembre",
+    indexNumber: "039",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Quincena de Diciembre",
+    summary:
+      "Entre combis, garúa y sirenas, una deriva limeña convierte culpa y cinismo en una escena donde el narrador termina declarándose terna.",
+    author: "Luis",
+    publishedAt: "11 de Marzo, 2026",
+  },
 ];
 
