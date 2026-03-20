@@ -47,9 +47,24 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     }
   }
 
-  const filteredArticles = [...articles]
+  let filteredArticles = [...articles]
     .reverse() // último agregado primero
     .filter((article) => config.kinds.includes(article.kind));
+
+  // Orden prioritario solo para la categoría FICCIÓN
+  if (slug === "ficcion") {
+    const prioritySlugs = ["azul", "canela"];
+
+    const prioritized = prioritySlugs
+      .map((s) => filteredArticles.find((a) => a.slug === s))
+      .filter((a): a is (typeof articles)[number] => a !== undefined);
+
+    const rest = filteredArticles.filter(
+      (a) => !prioritySlugs.includes(a.slug),
+    );
+
+    filteredArticles = [...prioritized, ...rest];
+  }
 
   return (
     <div className="font-sans bg-white text-black selection:bg-black selection:text-white">

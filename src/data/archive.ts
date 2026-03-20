@@ -111,18 +111,6 @@ export const articles: Article[] = [
     publishedAt: "11 de Marzo, 2026",
   },
   {
-    id: "008",
-    slug: "azul-tristeza",
-    indexNumber: "008",
-    year: "2026",
-    kind: "FICCIÓN",
-    title: "Azul Tristeza",
-    summary:
-      "Un relato sobre una muñeca azul colgando de un maletín, la melancolía en Lima y la forma en que la tristeza se impregna en la retina.",
-    author: "Luis",
-    publishedAt: "11 de Marzo, 2026",
-  },
-  {
     id: "009",
     slug: "ollama",
     indexNumber: "009",
@@ -479,6 +467,18 @@ export const articles: Article[] = [
     title: "Quincena de Diciembre",
     summary:
       "Entre combis, garúa y sirenas, una deriva limeña convierte culpa y cinismo en una escena donde el narrador termina declarándose terna.",
+    author: "Luis",
+    publishedAt: "11 de Marzo, 2026",
+  },
+  {
+    id: "040",
+    slug: "azul",
+    indexNumber: "040",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Azul",
+    summary:
+      "Una ciudad de melancolía y garúa donde una muñeca azul activa recuerdos, culpas y una tristeza que se queda pegada a la retina.",
     author: "Luis",
     publishedAt: "11 de Marzo, 2026",
   },
