@@ -1,10 +1,10 @@
 import { notFound, redirect } from "next/navigation";
 import { cookies } from "next/headers";
-import Link from "next/link";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { ThinDivider } from "@/components/ThinDivider";
 import { CategoryPagination } from "@/components/CategoryPagination";
+import Link from "next/link";
 import { articles, type ArticleKind } from "@/data/archive";
 
 const CATEGORY_CONFIG: Record<
@@ -132,7 +132,7 @@ export default async function CategoryPage({
             {pagedArticles.map((article) => (
               <article
                 key={article.id}
-                className="group"
+                className="group pb-12 border-b border-black/10"
                 data-purpose="archive-entry"
               >
                 <Link
@@ -140,9 +140,15 @@ export default async function CategoryPage({
                   href={`/archivo/${article.slug}`}
                 >
                   <div className="flex flex-col md:flex-row md:items-start justify-between gap-4">
-                    <span className="text-[10px] uppercase tracking-tighter w-12 pt-4">
-                      {article.indexNumber}
+                    <span className="flex-shrink-0 w-12 md:w-20 pt-4">
+                      <span
+                        className="block text-[64px] leading-none font-[700] text-black/15 tracking-tighter"
+                        style={{ fontFamily: "var(--font-jakarta)" }}
+                      >
+                        {article.indexNumber}
+                      </span>
                     </span>
+
                     <div className="flex-grow max-w-4xl">
                       <h2 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6">
                         {article.title}

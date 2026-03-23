@@ -71,17 +71,22 @@ export default async function Home({ searchParams }: HomeProps) {
             {pagedNarratives.map((article) => (
               <article
                 key={article.id}
-                className="group"
-                data-purpose="archive-entry"
+                className="group pb-24 border-b border-black/10 relative overflow-hidden"
               >
                 <Link
                   className="block transition-opacity archive-link"
                   href={`/archivo/${article.slug}`}
                 >
                   <div className="flex flex-col md:flex-row md:items-start justify-between gap-4">
-                    <span className="text-[10px] uppercase tracking-tighter w-12 pt-4">
-                      {article.indexNumber}
+                    <span className="flex-shrink-0 w-12 md:w-20 pt-4">
+                      <span
+                        className="block text-[120px] leading-none font-[700] text-black tracking-tighter absolute left-1 -bottom-[28px]"
+                        style={{ fontFamily: "var(--font-jakarta)" }}
+                      >
+                        {article.indexNumber}
+                      </span>
                     </span>
+
                     <div className="flex-grow max-w-4xl">
                       <h3 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6">
                         {article.title}
