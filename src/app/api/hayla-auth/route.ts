@@ -5,7 +5,13 @@ export async function POST(request: Request) {
   const password = formData.get("password");
   const from = (formData.get("from") as string) || "/categoria/hayla";
 
-  const expected = process.env.HAYLA_PASSWORD;
+  const expectedRaw = process.env.HAYLA_PASSWORD;
+  const expected =
+    typeof expectedRaw === "string"
+      ? expectedRaw.replace(/^['"]|['"]$/g, "")
+      : undefined;
+  const provided =
+    typeof password === "string" ? password.trim() : undefined;
 
   if (!expected) {
     return new NextResponse("HAYLA_PASSWORD no está configurada.", {
@@ -13,7 +19,7 @@ export async function POST(request: Request) {
     });
   }
 
-  if (typeof password !== "string" || password !== expected) {
+  if (!provided || provided !== expected) {
     const url = new URL("/hayla-acceso", request.url);
     url.searchParams.set("error", "1");
     url.searchParams.set("from", from);

@@ -4,6 +4,7 @@ import Link from "next/link";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { ThinDivider } from "@/components/ThinDivider";
+import { CategoryPagination } from "@/components/CategoryPagination";
 import { articles, type ArticleKind } from "@/data/archive";
 
 const CATEGORY_CONFIG: Record<
@@ -22,13 +23,22 @@ export async function generateStaticParams() {
   return Object.keys(CATEGORY_CONFIG).map((slug) => ({ slug }));
 }
 
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+
 interface CategoryPageProps {
   params: Promise<{
     slug: string;
   }>;
+  searchParams?: {
+    page?: string;
+  };
 }
 
-export default async function CategoryPage({ params }: CategoryPageProps) {
+export default async function CategoryPage({
+  params,
+  searchParams,
+}: CategoryPageProps) {
   const { slug } = await params;
 
   const config = CATEGORY_CONFIG[slug];
@@ -66,6 +76,37 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     filteredArticles = [...prioritized, ...rest];
   }
 
+  const PAGE_SIZE = 10;
+
+  // Según tu pedido: paginar solo categorías que no sean CRÓNICAS ni HAYLA.
+  const shouldPaginate = slug !== "cronicas" && slug !== "hayla";
+
+  const totalPages = shouldPaginate
+    ? Math.max(1, Math.ceil(filteredArticles.length / PAGE_SIZE))
+    : 1;
+
+  const requestedPageRaw = searchParams?.page;
+  const requestedPageStr = Array.isArray(requestedPageRaw)
+    ? requestedPageRaw[0]
+    : requestedPageRaw;
+
+  const requestedPage = requestedPageStr
+    ? Number.parseInt(requestedPageStr, 10)
+    : 1;
+
+  const currentPage =
+    shouldPaginate && totalPages > 1
+      ? Math.min(Math.max(1, Number.isFinite(requestedPage) ? requestedPage : 1), totalPages)
+      : 1;
+
+  const pagedArticles =
+    shouldPaginate && totalPages > 1
+      ? filteredArticles.slice(
+          (currentPage - 1) * PAGE_SIZE,
+          currentPage * PAGE_SIZE,
+        )
+      : filteredArticles;
+
   return (
     <div className="font-sans bg-white text-black selection:bg-black selection:text-white">
       <SiteHeader />
@@ -88,7 +129,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
           </p>
         ) : (
           <section className="mt-16 grid grid-cols-1 gap-y-16 lg:gap-y-24">
-            {filteredArticles.map((article) => (
+            {pagedArticles.map((article) => (
               <article
                 key={article.id}
                 className="group"
@@ -118,6 +159,14 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
               </article>
             ))}
           </section>
+        )}
+
+        {filteredArticles.length > PAGE_SIZE && shouldPaginate && totalPages > 1 && (
+          <CategoryPagination
+            baseHref={`/categoria/${slug}`}
+            currentPage={currentPage}
+            totalPages={totalPages}
+          />
         )}
       </main>
 

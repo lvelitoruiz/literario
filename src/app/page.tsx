@@ -2,9 +2,20 @@ import Link from "next/link";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { ThinDivider } from "@/components/ThinDivider";
+import { CategoryPagination } from "@/components/CategoryPagination";
 import { articles } from "@/data/archive";
 
-export default function Home() {
+interface HomeProps {
+  searchParams?: {
+    page?: string | string[];
+  };
+}
+
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+
+export default async function Home({ searchParams }: HomeProps) {
+  const resolvedSearchParams = await searchParams;
   // último agregado primero
   const ordered = [...articles].reverse();
 
@@ -14,6 +25,31 @@ export default function Home() {
   const chronicleArticles = ordered.filter(
     (article) => article.kind === "CRÓNICA",
   );
+
+  const PAGE_SIZE = 10;
+  const totalPages = Math.max(1, Math.ceil(narrativeArticles.length / PAGE_SIZE));
+
+  const requestedPageRaw = resolvedSearchParams?.page;
+  const requestedPageStr = Array.isArray(requestedPageRaw)
+    ? requestedPageRaw[0]
+    : requestedPageRaw;
+
+  const requestedPage = requestedPageStr
+    ? Number.parseInt(requestedPageStr, 10)
+    : 1;
+
+  const currentPage = Math.min(
+    Math.max(1, Number.isFinite(requestedPage) ? requestedPage : 1),
+    totalPages,
+  );
+
+  const pagedNarratives =
+    narrativeArticles.length > PAGE_SIZE
+      ? narrativeArticles.slice(
+          (currentPage - 1) * PAGE_SIZE,
+          currentPage * PAGE_SIZE,
+        )
+      : narrativeArticles;
 
   return (
     <div className="font-sans bg-white text-black selection:bg-black selection:text-white">
@@ -32,7 +68,7 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-1 gap-y-16 lg:gap-y-24">
-            {narrativeArticles.map((article) => (
+            {pagedNarratives.map((article) => (
               <article
                 key={article.id}
                 className="group"
@@ -62,6 +98,14 @@ export default function Home() {
               </article>
             ))}
           </div>
+
+          {narrativeArticles.length > PAGE_SIZE && totalPages > 1 && (
+            <CategoryPagination
+              baseHref="/"
+              currentPage={currentPage}
+              totalPages={totalPages}
+            />
+          )}
         </section>
 
         <section
