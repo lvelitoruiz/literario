@@ -25,7 +25,7 @@ export function CategoryPagination({
       <div className="flex items-center gap-2">
         <Link
           href={hrefForPage(1)}
-          className="text-[10px] uppercase tracking-[0.3em] border border-black px-4 py-2 hover:bg-black hover:text-white transition-colors"
+          className="text-[10px] uppercase tracking-[0.3em] border border-black px-4 py-2 hover:border-[#7AA5BF] hover:text-[#7AA5BF] transition-colors duration-200 ease-out"
         >
           Inicio
         </Link>
@@ -46,7 +46,7 @@ export function CategoryPagination({
               <Link
                 key={p}
                 href={hrefForPage(p)}
-                className="text-[10px] uppercase tracking-[0.3em] border border-black px-4 py-2 hover:bg-black hover:text-white transition-colors"
+                className="text-[10px] uppercase tracking-[0.3em] border border-black px-4 py-2 hover:border-[#7AA5BF] hover:text-[#7AA5BF] transition-colors duration-200 ease-out"
               >
                 {p}
               </Link>
@@ -56,7 +56,7 @@ export function CategoryPagination({
 
         <Link
           href={hrefForPage(lastPage)}
-          className="text-[10px] uppercase tracking-[0.3em] border border-black px-4 py-2 hover:bg-black hover:text-white transition-colors"
+          className="text-[10px] uppercase tracking-[0.3em] border border-black px-4 py-2 hover:border-[#7AA5BF] hover:text-[#7AA5BF] transition-colors duration-200 ease-out"
         >
           Final
         </Link>

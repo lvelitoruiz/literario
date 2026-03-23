@@ -111,38 +111,39 @@ export default async function CategoryPage({
     <div className="font-sans bg-white text-black selection:bg-black selection:text-white">
       <SiteHeader />
 
-      <main className="px-6 md:px-12 lg:px-24 pb-32">
+      <main className="px-6 md:px-12 lg:px-24">
         <header className="mb-12">
           <p className="text-[10px] uppercase tracking-[0.3em] mb-4">
             Categoría
           </p>
-          <h1 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight">
+          <h1 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight mb-12">
             {config.label}
           </h1>
+          <ThinDivider />
         </header>
 
-        <ThinDivider />
+        
 
         {filteredArticles.length === 0 ? (
           <p className="mt-16 text-sm text-black/60 max-w-md">
             Aún no hay textos publicados en esta categoría.
           </p>
         ) : (
-          <section className="mt-16 grid grid-cols-1 gap-y-16 lg:gap-y-24">
+          <section className="mt-16 grid grid-cols-1 gap-y-16 lg:gap-y-0">
             {pagedArticles.map((article) => (
               <article
                 key={article.id}
-                className="group pb-12 border-b border-black/10"
+                className="group pb-12 pt-24 border-b border-black/10 transition-colors duration-200 ease-out hover:bg-[#7AA5BF]/[0.04]"
                 data-purpose="archive-entry"
               >
                 <Link
-                  className="block transition-opacity archive-link"
+                  className="block transition-opacity duration-200 ease-out archive-link"
                   href={`/archivo/${article.slug}`}
                 >
                   <div className="flex flex-col md:flex-row md:items-start justify-between gap-4">
                     <span className="flex-shrink-0 w-12 md:w-20 pt-4">
                       <span
-                        className="block text-[64px] leading-none font-[700] text-black/15 tracking-tighter"
+                        className="block text-[64px] leading-none font-[700] tracking-tighter text-black transition-colors duration-200 ease-out group-hover:text-[#7AA5BF]"
                         style={{ fontFamily: "var(--font-jakarta)" }}
                       >
                         {article.indexNumber}
@@ -150,14 +151,14 @@ export default async function CategoryPage({
                     </span>
 
                     <div className="flex-grow max-w-4xl">
-                      <h2 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6">
+                      <h2 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6 transition-colors duration-200 ease-out text-black group-hover:text-[#7AA5BF]">
                         {article.title}
                       </h2>
                       <p className="text-sm md:text-base text-black/60 font-light leading-relaxed max-w-2xl">
                         {article.summary}
                       </p>
                     </div>
-                    <span className="text-[10px] uppercase tracking-widest text-right pt-4 whitespace-nowrap">
+                    <span className="text-[10px] uppercase tracking-widest text-right pt-4 whitespace-nowrap pr-4">
                       {article.year} — {article.kind}
                     </span>
                   </div>

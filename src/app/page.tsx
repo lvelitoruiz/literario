@@ -60,27 +60,30 @@ export default async function Home({ searchParams }: HomeProps) {
         data-purpose="essay-list"
       >
         <section id="selected-works">
-          <div className="mb-12">
+          <div className="mb-0">
             <h2 className="text-[10px] uppercase tracking-[0.3em] font-semibold mb-4">
               NARRATIVAS DESTACADAS
             </h2>
+            <h1 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight mb-12">
+              ENTRADAS
+            </h1>
             <ThinDivider />
           </div>
 
-          <div className="grid grid-cols-1 gap-y-16 lg:gap-y-24">
+          <div className="grid grid-cols-1 gap-y-16 lg:gap-y-0">
             {pagedNarratives.map((article) => (
               <article
                 key={article.id}
-                className="group pb-24 border-b border-black/10 relative overflow-hidden"
+                className="group pb-24 pt-24 border-b border-black/10 relative overflow-hidden transition-colors duration-200 ease-out hover:bg-[#7AA5BF]/[0.04]"
               >
                 <Link
-                  className="block transition-opacity archive-link"
+                  className="block transition-opacity duration-200 ease-out archive-link"
                   href={`/archivo/${article.slug}`}
                 >
                   <div className="flex flex-col md:flex-row md:items-start justify-between gap-4">
                     <span className="flex-shrink-0 w-12 md:w-20 pt-4">
                       <span
-                        className="block text-[120px] leading-none font-[700] text-black tracking-tighter absolute left-1 -bottom-[28px]"
+                        className="block text-[120px] leading-none font-[700] tracking-tighter absolute left-1 -bottom-[28px] text-black transition-colors duration-200 ease-out group-hover:text-[#7AA5BF]"
                         style={{ fontFamily: "var(--font-jakarta)" }}
                       >
                         {article.indexNumber}
@@ -88,14 +91,14 @@ export default async function Home({ searchParams }: HomeProps) {
                     </span>
 
                     <div className="flex-grow max-w-4xl">
-                      <h3 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6">
+                      <h3 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight leading-tight mb-6 transition-colors duration-200 ease-out text-black group-hover:text-[#7AA5BF]">
                         {article.title}
                       </h3>
                       <p className="text-sm md:text-base text-black/60 font-light leading-relaxed max-w-2xl">
                         {article.summary}
                       </p>
                     </div>
-                    <span className="text-[10px] uppercase tracking-widest text-right pt-4 whitespace-nowrap">
+                    <span className="text-[10px] uppercase tracking-widest text-right pt-4 whitespace-nowrap pr-4">
                       {article.year} — {article.kind}
                     </span>
                   </div>
