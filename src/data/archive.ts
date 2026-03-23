@@ -482,5 +482,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "11 de Marzo, 2026",
   },
+  {
+    id: "041",
+    slug: "fumar-huir",
+    indexNumber: "041",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Fumar, huir",
+    summary:
+      "Un regreso al vicio como coartada: apagar la escucha, escribir en soledad y planear huir por lugares fríos, mientras el aroma a canela se queda como compañía.",
+    author: "Luis",
+    publishedAt: "23 de Marzo, 2026",
+  },
 ];
 
