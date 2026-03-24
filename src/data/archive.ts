@@ -494,5 +494,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "23 de Marzo, 2026",
   },
+  {
+    id: "042",
+    slug: "el-encargado",
+    indexNumber: "042",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "El encargado",
+    summary:
+      "Bajo la garúa limeña, un narrador observa la huida de todos y asume su oficio: invocarla y sostener el centro de una melancolía que nadie más admite.",
+    author: "Luis",
+    publishedAt: "24 de Marzo, 2026",
+  },
 ];
 
