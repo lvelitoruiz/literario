@@ -6,6 +6,8 @@ import { SiteFooter } from "@/components/SiteFooter";
 import { articles } from "@/data/archive";
 import { MarkdownBody } from "@/components/MarkdownBody";
 import { CopyLinkButton } from "@/components/CopyLinkButton";
+import { CusdisComments } from "@/components/CusdisComments";
+import { publicSiteUrl } from "@/lib/publicSiteUrl";
 
 export async function generateStaticParams() {
   return articles.map((article) => ({
@@ -36,6 +38,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   } catch {
     markdown = "";
   }
+
+  const cusdisAppId = process.env.NEXT_PUBLIC_CUSDIS_APP_ID;
+  const c_host = process.env.NEXT_PUBLIC_CUSDIS_HOST;
+  const cusdisHost =
+    c_host && c_host.length > 0 ? c_host.replace(/\/$/, "") : undefined;
+  const articlePageUrl = `${publicSiteUrl()}/archivo/${slug}`;
 
   return (
     <div className="font-sans bg-white text-black selection:bg-black selection:text-white">
@@ -77,6 +85,37 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <article data-purpose="reading-area">
           <MarkdownBody source={markdown} />
         </article>
+
+        {cusdisAppId ? (
+          <section
+            className="mt-24 max-w-3xl"
+            data-purpose="article-comments"
+            aria-labelledby="cusdis-heading"
+          >
+            <h2
+              id="cusdis-heading"
+              className="text-[10px] font-bold uppercase tracking-[0.3em] mb-8"
+            >
+              Comentarios
+            </h2>
+            <CusdisComments
+              appId={cusdisAppId}
+              {...(cusdisHost ? { host: cusdisHost } : {})}
+              pageId={slug}
+              pageTitle={article.title}
+              pageUrl={articlePageUrl}
+              lang="es"
+            />
+          </section>
+        ) : process.env.NODE_ENV === "development" ? (
+          <p className="mt-24 max-w-3xl text-sm text-black/40">
+            Cusdis: añade{" "}
+            <code className="text-black/60">NEXT_PUBLIC_CUSDIS_APP_ID</code> en{" "}
+            <code className="text-black/60">.env.local</code> (opcional:{" "}
+            <code className="text-black/60">NEXT_PUBLIC_CUSDIS_HOST</code>,{" "}
+            <code className="text-black/60">NEXT_PUBLIC_SITE_URL</code>).
+          </p>
+        ) : null}
 
         <footer
           className="mt-48 pt-12 border-t border-black/10 flex flex-col md:flex-row justify-between items-start gap-12"
