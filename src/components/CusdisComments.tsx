@@ -5,6 +5,7 @@ import {
   useEffect,
   useLayoutEffect,
   useRef,
+  useState,
   type RefObject,
 } from "react";
 
@@ -118,7 +119,11 @@ type CusdisCommentsProps = {
   host?: string;
   pageId: string;
   pageTitle: string;
-  pageUrl: string;
+  /**
+   * URL del post para formar la "página/hilo" en Cusdis.
+   * Si se omite, se usará `window.location.href` (útil con multi-dominio).
+   */
+  pageUrl?: string;
   /** Código de idioma del widget (ej. es). Ver https://cusdis.com/js/widget/lang/ */
   lang?: string;
 };
@@ -154,28 +159,41 @@ export function CusdisComments({
   const hostTrim = host.replace(/\/$/, "");
   const mainSrc = `${hostTrim}/js/cusdis.es.js`;
 
+  const [resolvedPageUrl] = useState<string>(
+    () => {
+      if (pageUrl) return pageUrl;
+      if (typeof window !== "undefined") return window.location.href;
+      return "";
+    },
+  );
+
   useCusdisIframeAutoHeight(
     divRef,
     appId,
     hostTrim,
     pageId,
     pageTitle,
-    pageUrl,
+    resolvedPageUrl,
     lang,
   );
 
   useLayoutEffect(() => {
+    if (!resolvedPageUrl) return;
     runRender(divRef.current);
-  }, [appId, hostTrim, pageId, pageTitle, pageUrl, lang]);
+  }, [appId, hostTrim, pageId, pageTitle, resolvedPageUrl, lang]);
 
   const onMainReady = () => {
     if (!lang) {
-      runRender(divRef.current);
+      if (resolvedPageUrl) runRender(divRef.current);
       return;
     }
     void ensureLangScript(hostTrim, lang)
-      .then(() => runRender(divRef.current))
-      .catch(() => runRender(divRef.current));
+      .then(() => {
+        if (resolvedPageUrl) runRender(divRef.current);
+      })
+      .catch(() => {
+        if (resolvedPageUrl) runRender(divRef.current);
+      });
   };
 
   return (
@@ -188,7 +206,7 @@ export function CusdisComments({
         data-app-id={appId}
         data-page-id={pageId}
         data-page-title={pageTitle}
-        data-page-url={pageUrl}
+        data-page-url={resolvedPageUrl}
       />
       <Script src={mainSrc} strategy="lazyOnload" onReady={onMainReady} />
     </>

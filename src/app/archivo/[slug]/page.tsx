@@ -7,7 +7,6 @@ import { articles } from "@/data/archive";
 import { MarkdownBody } from "@/components/MarkdownBody";
 import { CopyLinkButton } from "@/components/CopyLinkButton";
 import { CusdisComments } from "@/components/CusdisComments";
-import { publicSiteUrl } from "@/lib/publicSiteUrl";
 
 export async function generateStaticParams() {
   return articles.map((article) => ({
@@ -43,7 +42,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const c_host = process.env.NEXT_PUBLIC_CUSDIS_HOST;
   const cusdisHost =
     c_host && c_host.length > 0 ? c_host.replace(/\/$/, "") : undefined;
-  const articlePageUrl = `${publicSiteUrl()}/archivo/${slug}`;
 
   return (
     <div className="font-sans bg-white text-black selection:bg-black selection:text-white">
@@ -103,7 +101,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {...(cusdisHost ? { host: cusdisHost } : {})}
               pageId={slug}
               pageTitle={article.title}
-              pageUrl={articlePageUrl}
               lang="es"
             />
           </section>
