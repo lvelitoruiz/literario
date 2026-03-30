@@ -18,6 +18,7 @@ De pronto, una rama, algo frágil choca con mi espalda, algo que se acomoda, me 
 
 Me volteo una vez más, la miro directamente esta vez, *(Sandy, why can't we look the other way?)*, finalmente cansado de verla lanzada como botella a la deriva la cojo de la cintura, la levanto con un brazo y la traigo delante de mí. Me sorprende, no opone resistencia. La misma violencia me empuja a ella, le agrega gravedad, la siento acomodarse a mi cuerpo, maleable como una membrana.
 Bajo el vestido hay caderas de mujer. No la niña que pensé. Su cuello huele fuerte a clavo de olor. Me tienta demasiado.
+
 Pierdo el hilo un segundo.
 
 ---
