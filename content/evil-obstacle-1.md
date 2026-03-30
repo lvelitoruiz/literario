@@ -17,6 +17,7 @@ Niego con la cabeza y continúo adelante en una masa que se va poniendo más den
 De pronto, una rama, algo frágil choca con mi espalda, algo que se acomoda, me volteo y la veo siendo lanzada de nuevo, cual muñeca rota, se cae, se para, no la he visto moverse por su cuenta. No parece estar sufriendo tampoco, su cara y sus gestos me dicen claramente que siente todo esto como exhilarante, divertido, necesario, crucial. Me volteo y cierro el límite de la violencia a mis espaldas, la huelo y la siento, una, dos, tres veces más, mi cuerpo se va acostumbrando un poco a su presencia como olas que revientan en mi orilla.
 
 Me volteo una vez más, la miro directamente esta vez, *(Sandy, why can't we look the other way?)*, finalmente cansado de verla lanzada como botella a la deriva la cojo de la cintura, la levanto con un brazo y la traigo delante de mí. Me sorprende, no opone resistencia. La misma violencia me empuja a ella, le agrega gravedad, la siento acomodarse a mi cuerpo, maleable como una membrana.
+
 Bajo el vestido hay caderas de mujer. No la niña que pensé. Su cuello huele fuerte a clavo de olor. Me tienta demasiado.
 
 Pierdo el hilo un segundo.
@@ -42,6 +43,7 @@ Una sensación pegajosa, como de haberse bañado en el mar, algo que se le estab
 — ¡Hola pared! ¿Se podría saber por qué estás intentando ahogarme?
 
 La soltó un poco, de manera mecánica, era curioso este tipo, cercanía intencional sin incomodidad corporal. Pero podía sentir la violencia contenida, el engaño de la delicadeza. Un ruido que no le permite a ella entrar.
+
 Quizá no era tan aburrido.
 
 — Perdón. No fue mi intención.
@@ -89,6 +91,7 @@ Le rodea el cuello con los brazos y le baja hasta su boca.
 — Debajo del vestido huelo mejor — susurra, entonces le lame la lágrima —. Pero igual no soy ella.
 
 Su mano busca bajo la tela casi sin permiso, con una urgencia extraña, entre desesperada y mecánica, como si supiera lo que hace. Ella no se aparta.
+
 Entonces lo siento.
 
 ---
@@ -132,6 +135,7 @@ Tus pasos… todo tiembla.
 ---
 
 De pronto, con su primer paso, el hechizo se rompe, oscuridad *(I'll never see this place again)*, fin del movimiento. La gente se refleja en el desconcierto ajeno, realmente las luces están fallando, la energía con que se golpeaban ha desaparecido, manos ansiosas salen de debajo de ropas ajenas.
+
 Solo quedan el sudor y la vergüenza de algo hecho a media conciencia.
 
 — ¡Wow! ¡Eso estuvo cerca! ¿Qué hace esa cosa aquí?
@@ -157,6 +161,7 @@ De pronto, ¿Garúa? no, lluvia, serrana, áspera, *¿él también?*, cierra los
 ---
 
 No es que necesite fumar, pero de momento no hay pogo, y tengo espacio suficiente, se que sedarme de este modo no es lo más varonil, pero, a decir verdad ¿importa? Es extraño, una mujer que olía a chocolatada, ¿Estoy recordando mal? ¿Me está afectando la nariz fumar esta vaina?
+
 ¿Qué es lo que dijo esa huevona sobre Ollama? Meh, me llega al pincho. — ¿Qué autoridad piensa que tiene?
 
 — Todavía fue, la respuesta cuando me dijiste… Entonó después de expulsar el humo.
