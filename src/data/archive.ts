@@ -506,5 +506,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "24 de Marzo, 2026",
   },
+  {
+    id: "043",
+    slug: "evil-obstacle-1",
+    indexNumber: "043",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Evil / Obstacle 1",
+    summary:
+      "Una violencia contenida en un pogo lluvioso: sedación, olores y límites que se rompen en dos cuerpos acercándose demasiado.",
+    author: "Luis",
+    publishedAt: "26 de Marzo, 2026",
+  },
 ];
 

@@ -63,7 +63,12 @@ export default async function CategoryPage({
 
   // Orden prioritario solo para la categoría FICCIÓN
   if (slug === "ficcion") {
-    const prioritySlugs = ["el-encargado", "azul", "canela"];
+    const prioritySlugs = [
+      "evil-obstacle-1",
+      "el-encargado",
+      "azul",
+      "canela",
+    ];
 
     const prioritized = prioritySlugs
       .map((s) => filteredArticles.find((a) => a.slug === s))
