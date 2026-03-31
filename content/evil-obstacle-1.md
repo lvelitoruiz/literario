@@ -172,7 +172,9 @@ La lluvia intenta apagar mi cigarro, así que chupo más fuerte, no puedo permit
 
 — ¿Crees que nos conteste pronto?
 
-Observo a otro tipo fumando, mucho más arriba, en las tribunas, igual que yo, parado en la lluvia, parece mirarme, me siento ridículo conversando con mi llavero. La única ternura que aplico hoy es a sus greñas mojadas por esta lluvia, lo guardo con amor en mi morral.
+Observo a otro tipo fumando, mucho más arriba, en las tribunas, igual que yo, parado en la lluvia, parece mirarme, me siento ridículo conversando con mi llavero. La única ternura que aplico hoy es a sus greñas mojadas por esta lluvia, lo guardo con amor en mi morral. Siento el olor de mi cigarro invadiendo el ambiente, marcándonos a ambos.
+
+— ¿Crees que él también…?
 
 ---
 
@@ -184,3 +186,11 @@ Viene de otra parte.
 
 Él también es peligroso.  
 Vámonos.
+
+---
+
+Un tipo, anclado al centro de la lluvia, frunce el ceño. Mira el cigarro.
+
+No son buenas noticias.
+
+— ¿Clavo de olor?
