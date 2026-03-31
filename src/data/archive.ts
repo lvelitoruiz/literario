@@ -518,5 +518,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "26 de Marzo, 2026",
   },
+  {
+    id: "044",
+    slug: "centro",
+    indexNumber: "044",
+    year: "2026",
+    kind: "HAYLA",
+    title: "Centro",
+    summary:
+      "Una carta que la imagina como centro de gravedad y brújula, destino inevitable al que todos los caminos regresan.",
+    author: "Luis",
+    publishedAt: "26 de Marzo, 2026",
+  },
 ];
 
