@@ -530,5 +530,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "26 de Marzo, 2026",
   },
+  {
+    id: "045",
+    slug: "centro-tergiversacion",
+    indexNumber: "045",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Centro (Tergiversación)",
+    summary:
+      "Una relectura amarga del centro compartido: destino, obsesión y culpa en una órbita que ya no sabe distinguir verdad de consuelo.",
+    author: "Luis",
+    publishedAt: "26 de Marzo, 2026",
+  },
 ];
 
