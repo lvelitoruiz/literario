@@ -542,5 +542,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "26 de Marzo, 2026",
   },
+  {
+    id: "046",
+    slug: "la-encargada",
+    indexNumber: "046",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "La Encargada",
+    summary:
+      "Una noche limeña de clavo de olor, colas y pogo: una voz que orbita la violencia ajena y deja que el tatuaje y la música hagan el resto.",
+    author: "Luis",
+    publishedAt: "3 de Abril, 2026",
+  },
 ];
 
