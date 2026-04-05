@@ -554,5 +554,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "3 de Abril, 2026",
   },
+  {
+    id: "047",
+    slug: "audios",
+    indexNumber: "047",
+    year: "2026",
+    kind: "ENSAYO",
+    title: "Audios",
+    summary:
+      "Sobre la voz borrada, el amor imaginado y la culpa que no se limpia: un monólogo entre traición, tristeza y la excusa que sostuvo el naufragio.",
+    author: "Luis",
+    publishedAt: "3 de Abril, 2026",
+  },
 ];
 
