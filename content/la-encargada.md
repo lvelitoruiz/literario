@@ -74,4 +74,10 @@ Se pelean sin entender los hilos invisibles que los mueven, me transportan, empi
 
 En medio del éxtasis le presto atención a algo *cause, ah-ah, I'm in the stars tonight* ahora comparto con ellos el aspecto que domina este sitio, la manera en que están aprendiendo a descubrir la urgencia, siento unas manos que me intentan invadir, que buscan algo que no voy a entregar, una boca en mi cuello, se siente bien, muy bien, soy parte de ellos, pero no esa parte, lo empujo despacio hacia atrás pero insiste, me ha visto cerrar los ojos y piensa que es por él, alguien más me empuja felizmente, me cubren más cuerpos, me brindan sus extremidades para alejarlo.
 
-Quiero mantener esto, todo lo posible, esta renuncia, al menos esta noche, es eterna e ilimitada *So watch me bring the fire and set the night alight* si, como eso, voy a inmolarme con ellos hasta ver el sol.
+Descubro, de pronto, que la mente también puede jadear.
+
+Quiero mantener esto… esta renuncia… al menos esta noche… eterna… ilimitada.
+
+Y ahora— invadida por este humo que me recorre sin pedir permiso —
+
+Algo retorna. Me arrasa. *So watch me bring the fire and set the night alight*, sí… como eso… voy a inmolarme con ellos hasta ver el sol.
