@@ -78,6 +78,8 @@ Descubro, de pronto, que la mente también puede jadear.
 
 Quiero mantener esto… esta renuncia… al menos esta noche… eterna… ilimitada.
 
-Y ahora— invadida por este humo que me recorre sin pedir permiso —
+Y ahora — invadida por este humo que me recorre sin pedir permiso —
 
-Algo retorna. Me arrasa. *So watch me bring the fire and set the night alight*, sí… como eso… voy a inmolarme con ellos hasta ver el sol.
+Algo retorna. Me arrasa.  
+*So watch me bring the fire and set the night alight*  
+sí… como eso… voy a inmolarme con ellos hasta ver el sol.
