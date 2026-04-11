@@ -566,5 +566,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "3 de Abril, 2026",
   },
+  {
+    id: "048",
+    slug: "walk-revision",
+    indexNumber: "048",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Walk Revision",
+    summary:
+      "Una Lima nocturna en capas: lazarillo, neón, Mesa Redonda, la muñeca azul y la violencia prestada — una versión ampliada y cruzada del camino a pie.",
+    author: "Luis",
+    publishedAt: "3 de Abril, 2026",
+  },
 ];
 
