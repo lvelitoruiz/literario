@@ -578,5 +578,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "3 de Abril, 2026",
   },
+  {
+    id: "049",
+    slug: "canela-revision",
+    indexNumber: "049",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Canela - Revisión",
+    summary:
+      "Una despedida bajo garúa y canela: deseo, culpa y obsesión en una noche limeña que se estira como limbo.",
+    author: "Luis",
+    publishedAt: "3 de Abril, 2026",
+  },
 ];
 
