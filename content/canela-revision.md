@@ -29,7 +29,7 @@ Recojo tu regalo del sillón, lo observo, es una llamita peluda, desgreñada com
 
 En el pasillo se prende una luz y me incomoda, te prefiero a oscuras, solo los dos.
 
-Subimos al ascensor y me desesperan los números, te canto muy despacio al oído, cumpliendo una promesa, con urgencia, sin tiempo de escoger como en whatsapp, siento tu cuerpo abandonando su peso a mis brazos, te volteas y me besas, bombeas sangre a través de mí, te empiezo a besar el cuello y me invade tu olor, es como besar la primavera, hueles a frutas y a canela, como Greve, como Florencia un día de verano.
+Subimos al ascensor y me desesperan los números, te canto muy despacio al oído, cumpliendo una promesa, con urgencia, sin tiempo de escoger como en whatsapp, siento tu cuerpo abandonando su peso a mis brazos, te volteas y me besas, bombeas sangre a través de mí, te empiezo a besar el cuello y me invade tu olor, es como besar la primavera, hueles a frutas y a canela, como pastelería francesa, el París que deseas, al que me arrastras.
 
 Adorno tu cabello con las lágrimas que se me escapan, te escurres entre mis dedos.
 
