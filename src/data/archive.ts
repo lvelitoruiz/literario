@@ -602,5 +602,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "14 de Abril, 2026",
   },
+  {
+    id: "051",
+    slug: "canela-re-edicion",
+    indexNumber: "051",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Canela Re-edición",
+    summary:
+      "Una noche extendida entre garúa, deseo y desvíos: despedirse, buscar un cigarro imposible y volver al centro de una obsesión que no termina.",
+    author: "Luis",
+    publishedAt: "28 de Abril, 2026",
+  },
 ];
 
