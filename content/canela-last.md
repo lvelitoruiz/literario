@@ -292,7 +292,7 @@ Me subo en silencio.
 
 Existo en este espacio cerrado para recordarte, más que un viaje es la suma de fracasos anteriores de tratar de encontrarte en lo que no eres tú, evitando el lugar donde siempre supe que podrías estar, en mi pasado.
 
-Pero no eres la misma, es la misma idea, ¡demonios!, no eres original, por que yo ya llamaba Canelita a alguien más, pero eso no es tu culpa, es mi ausencia de imaginación, es el hecho de que quiero reemplazar contigo una historia de choques, fabricar una memoria a mi medida, como quien pone a propósito Fake Plastic Trees cuando sabe que va a besarte y llegar al final, para olvidar que con esa canción abandonaste a alguien mientras te pedía piedad.
+Pero no eres la misma, es la misma idea, ¡demonios!, no eres original, por que yo ya llamaba Canelita a alguien más, pero eso no es tu culpa, es mi ausencia de imaginación, es el hecho de que quiero reemplazar contigo una historia de choques, fabricar una memoria a mi medida, como quien pone a propósito *"Fake Plastic Trees"* cuando sabe que va a besarte y llegar al final, para olvidar que con esa canción abandonaste a alguien mientras te pedía piedad.
 
 Saqué a Ollama y le acomodé la greña, siempre se está despeinando. Lo saco por la ventana conmigo, el aire nos golpea con la garúa que arrastra, pero esta vez, por fin, no estoy solo, alguien me quiere, Ollama existe, mira las luces de neón conmigo, el Real Plaza, el par de vendedoras de emoliente aún afuera.
 
@@ -312,7 +312,7 @@ Paso por Quilca, el Averno cerrado para siempre, gente cerca al Salón Imperial,
 
 Emerjo de Quilca a la luz de Plaza San Martín, se a donde voy, cruzo, por la derecha, no me detengo a ver los letreros, se donde está todo, la entrada al Vichama es más larga de lo que recuerdo.
 
-Dentro hay una banda tocando, en un estrado en el cual bailé cuando aún era diseñador, un tipo cantando De música ligera hasta el pincho. Me siento en la barra, en la pared de enfrente, escenas de Ichi The Killer se suceden en silencio, le tomo una foto a la pared, me extraña que no haya un poster de Chainsaw Man, harían juego, pero claro, aún no…
+Dentro hay una banda tocando, en un estrado en el cual bailé cuando aún era diseñador, un tipo cantando *"De música ligera"* hasta el pincho. Me siento en la barra, en la pared de enfrente, escenas de *"Ichi The Killer"* se suceden en silencio, le tomo una foto a la pared, me extraña que no haya un poster de *"Chainsaw Man"*, harían juego, pero claro, aún no…
 
 — ¡Me da un Chilcano Azul amigo! — me mira y me extiende un vaso de plástico grueso ya preparado, mi hígado se retuerce, pero no hay vuelta atrás, sabe a pisco Vargas, igual está helado.
 
