@@ -614,5 +614,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "28 de Abril, 2026",
   },
+  {
+    id: "052",
+    slug: "canela-last",
+    indexNumber: "052",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Canela - Last",
+    summary:
+      "Una despedida última bajo la garúa limeña: besos con sabor a canela, una deriva nocturna buscando un cigarro que ya no existe y la confesión de que nunca hubo otra Canelita.",
+    author: "Luis",
+    publishedAt: "11 de Mayo, 2026",
+  },
 ];
 
