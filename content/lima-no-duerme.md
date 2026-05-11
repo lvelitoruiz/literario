@@ -1,3 +1,16 @@
+---
+id: '034'
+slug: lima-no-duerme
+indexNumber: '034'
+year: '2026'
+kind: ENSAYO
+title: Lima no duerme
+summary: >-
+  Un recorrido insomne por una Lima herida y pagana, cuyos rituales, costras y
+  faroles rojos se confunden con la propia retina del narrador.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Lima no duerme. Encerrado entre los sueños que Lima no tiene, en este laberinto cuyos caminos llevan al exterior, para no volver y mirar su propio herido cuerpo, escucho entre su ruido: el suicidio de tantos rituales paganos, cristos falsos, falsos profetas y otros mártires.
 
 Las líneas de las vías peligrosamente se juntan hasta formar la red de costras de esta Lima que tapa sus falsos estigmas. En ellas yo soy el dedo que recorre sus arterias, con mi chalina en la cara y la misma cara de conmiseración que estampo como besos en cada rincón donde veo la podredumbre de tus sarnas tan queridas.

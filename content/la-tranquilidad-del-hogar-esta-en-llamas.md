@@ -1,3 +1,16 @@
+---
+id: 038
+slug: la-tranquilidad-del-hogar-esta-en-llamas
+indexNumber: 038
+year: '2026'
+kind: FICCIÓN
+title: La tranquilidad del hogar está en llamas
+summary: >-
+  Un convaleciente garabatea un colchón quemándose y deja que el artificio
+  sostenga una Lima gris que arde en faroles rojos.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Justiniano Quispe camina por el centro de Lima como todos los días desde la operación, siente el fastidio habitual que le causa descubrir (una vez más) el cadáver de una cama quemándose en la berma central de la avenida. Cansado y cínico pensó “Seguro alguien intentó adornar la tarde tan gris con una fogata”, por supuesto lo único que había ahí era un montón de basura prendida a pesar de la “lluvia” de Lima (La garúa nunca apaga incendios…) sin embargo igual se detuvo y comenzó a garabatear en su block el colchón quemándose, luego pensó:
 
 - Voy a titular esto “La tranquilidad del hogar está en llamas…”

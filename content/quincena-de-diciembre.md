@@ -1,3 +1,16 @@
+---
+id: 039
+slug: quincena-de-diciembre
+indexNumber: 039
+year: '2026'
+kind: FICCIÓN
+title: Quincena de Diciembre
+summary: >-
+  Entre combis, garúa y sirenas, una deriva limeña convierte culpa y cinismo en
+  una escena donde el narrador termina declarándose terna.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Camino a ninguna parte en especial las combis corren haciendo la bulla ritual navideña de Lima, escuchas claramente “Hay jíbaros que al llegar/ de los Estados Unidos” pero lo demás se pierde en la vorágine de esta ciudad que incluso ahora, vomita pasajeros por esa garganta llamada Avenida Abancay. Estás aquí, así que todo está arruinado, ¿Es hora de buscar culpables? ¿De hacer el inventario de las naves? Una a una se han quemado las hojas de este almanaque, pero a pesar de esa distancia, solo bastó el guiño de tu voz para invocarme.
 
 Nunca he dicho que sea una persona difícil de convencer, arrastrado por el humo de lo que fue, me escondo en esta coartada de sospechoso habitual.

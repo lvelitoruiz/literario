@@ -1,3 +1,16 @@
+---
+id: 018
+slug: premio-que-no-es-premio
+indexNumber: 018
+year: '2026'
+kind: HAYLA
+title: Premio que no es premio
+summary: >-
+  Una reflexión medio en broma, medio en serio, sobre qué tan grande debe ser el
+  gesto del universo para que la consecuencia sea conocerla.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Sabes? A veces pienso qué de bueno he hecho para merecer tenerte en mi vida,
 quizá he sido mejor persona de lo que pienso, o quizá vaya a hacer algo muy
 bueno como salvar cachorritos de un incendio o no sé, pero para que la

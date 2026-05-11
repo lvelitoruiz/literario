@@ -1,3 +1,17 @@
+---
+id: '030'
+slug: helado-con-canela
+indexNumber: '030'
+year: '2026'
+kind: HAYLA
+title: Helado con canela
+summary: >-
+  Un helado de canela se convierte en excusa para pensar en su cuerpo, en la
+  certeza de pertenecerle y en un amor que crece al ritmo de una realidad
+  compartida.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Comí un helado con canela, inmediatamente pensé en ti, en cómo quisiera más bien estar saboreando tus labios, tus dedos, tu oreja, tu cuello, tu piel. 
 
 Es en momentos como estos en que sé que las cosas buenas y bonitas de la vida, son tú, no es asociación, es directamente tú. A estas alturas, no hay nada que me diga que no soy tuyo, quizá aún falte un momento culminante. Pero ya mi vida está resumida en las maneras en que puedo hacerte feliz. Existe alguna otra cosa que pueda hacer? Sospecho que no, el mundo es para mí ese momento donde nos detenemos a vernos antes de besarnos en un ascensor. 

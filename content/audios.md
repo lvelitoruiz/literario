@@ -1,3 +1,16 @@
+---
+id: '047'
+slug: audios
+indexNumber: '047'
+year: '2026'
+kind: ENSAYO
+title: Audios
+summary: >-
+  Sobre la voz borrada, el amor imaginado y la culpa que no se limpia: un
+  monólogo entre traición, tristeza y la excusa que sostuvo el naufragio.
+author: Luis
+publishedAt: '3 de Abril, 2026'
+---
 Volví a oír tus audios, aunque me hacen daño, pero son lo mejor que me ha pasado, es triste pensar que esta especie de traición de tu voz, le da el cierre perfecto al amor que imaginé entre nosotros.
 
 Tu silencio me condena a estar atado a esos audios que tú ya borraste, a esos planes que nunca fueron reales, que yo me forcé a creer aún en contra de las advertencias, es horrible entender que la realidad es ese miasma que nunca se limpia del todo. Que manchará por siempre incluso mis fabricaciones cobardes.

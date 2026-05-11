@@ -1,3 +1,16 @@
+---
+id: '021'
+slug: buenos-dias-mi-princesa
+indexNumber: '021'
+year: '2026'
+kind: HAYLA
+title: 'Buenos días, mi Princesa'
+summary: >-
+  Una mañana iluminada por ella, donde todo se vuelve calidez y él solo quiere
+  orbitar su sol.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Buenos días mi Princesa hermosa! Mi sol, mi vida y mi tesoro. Todo es más bello
 cuando pienso en ti, todo es más bello cuando uso los lentes color rosa que me
 pones para ver el mundo, pero es aún más bello cuando estoy a tu lado. Hoy te

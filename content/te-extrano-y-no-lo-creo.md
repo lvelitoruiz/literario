@@ -1,3 +1,16 @@
+---
+id: '023'
+slug: te-extrano-y-no-lo-creo
+indexNumber: '023'
+year: '2026'
+kind: HAYLA
+title: Te extraño y no lo creo
+summary: >-
+  Una confesión de extrañarla, de no creer del todo tanta felicidad y de saber
+  que el amor solo seguirá creciendo.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Quisiera haber escrito algo mejor quizá, pero la verdad te extraño, ahora mismo
 extraño tus abrazos, tu olor, tu suavidad, tu cariño, la manera tan tranquila de
 decirme que me quieres y la manera de pensar que me estoy burlando, cuando en

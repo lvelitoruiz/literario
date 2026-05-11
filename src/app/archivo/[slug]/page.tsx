@@ -1,41 +1,48 @@
 import { notFound } from "next/navigation";
-import fs from "node:fs/promises";
-import path from "node:path";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
-import { articles } from "@/data/archive";
+import { getAllSlugs, getArticleBySlug } from "@/lib/articles";
 import { MarkdownBody } from "@/components/MarkdownBody";
 import { CopyLinkButton } from "@/components/CopyLinkButton";
 import { CusdisComments } from "@/components/CusdisComments";
+import { SoundCloudEmbed } from "@/components/SoundCloudEmbed";
 
 export async function generateStaticParams() {
-  return articles.map((article) => ({
-    slug: article.slug,
-  }));
+  const slugs = await getAllSlugs();
+  return slugs.map((slug) => ({ slug }));
 }
 
 interface ArticlePageProps {
   params: Promise<{
     slug: string;
   }>;
+  searchParams?: Promise<{
+    preview?: string | string[];
+  }>;
 }
 
-export default async function ArticlePage({ params }: ArticlePageProps) {
+export default async function ArticlePage({
+  params,
+  searchParams,
+}: ArticlePageProps) {
   const { slug } = await params;
+  const resolvedSearchParams = await searchParams;
 
-  const article = articles.find((item) => item.slug === slug);
+  // Preview de borradores: solo si el token de la URL coincide con la env var.
+  // Si PREVIEW_TOKEN no está configurado, el preview queda inhabilitado.
+  const previewToken = process.env.PREVIEW_TOKEN;
+  const requestedPreviewRaw = resolvedSearchParams?.preview;
+  const requestedPreview = Array.isArray(requestedPreviewRaw)
+    ? requestedPreviewRaw[0]
+    : requestedPreviewRaw;
+  const isPreview = Boolean(
+    previewToken && requestedPreview && requestedPreview === previewToken,
+  );
+
+  const article = await getArticleBySlug(slug, { includeDrafts: isPreview });
 
   if (!article) {
     notFound();
-  }
-
-  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
-  let markdown = "";
-
-  try {
-    markdown = await fs.readFile(filePath, "utf8");
-  } catch {
-    markdown = "";
   }
 
   const cusdisAppId = process.env.NEXT_PUBLIC_CUSDIS_APP_ID;
@@ -51,6 +58,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24 pb-32"
         data-purpose="article-container"
       >
+        {article.draft && isPreview && (
+          <div
+            className="mb-12 border border-yellow-400 bg-yellow-50 px-4 py-3 text-[10px] uppercase tracking-[0.3em] text-yellow-900"
+            data-purpose="draft-preview-banner"
+          >
+            Vista previa · Este post es un BORRADOR y no está publicado.
+          </div>
+        )}
         <header
           className="mb-24 max-w-5xl"
           data-purpose="article-header"
@@ -59,6 +74,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <span>{article.year}</span>
             <span className="opacity-20">—</span>
             <span>{article.kind}</span>
+            {article.kind === "PODCAST" && article.episodeNumber && (
+              <>
+                <span className="opacity-20">—</span>
+                <span>EP. {String(article.episodeNumber).padStart(2, "0")}</span>
+              </>
+            )}
           </div>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-normal tracking-[-0.05em] leading-[1.1] mb-12">
             {article.title}
@@ -73,15 +94,25 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <span className="hidden md:block opacity-20">/</span>
             <time
               data-purpose="publish-date"
-              dateTime="2023-10-14"
+              dateTime={article.publishedAt}
             >
               {article.publishedAt}
             </time>
           </div>
         </header>
 
+        {article.kind === "PODCAST" && article.audioUrl && (
+          <section
+            className="max-w-3xl mb-16"
+            data-purpose="article-audio"
+            aria-label="Reproductor de audio"
+          >
+            <SoundCloudEmbed url={article.audioUrl} />
+          </section>
+        )}
+
         <article data-purpose="reading-area">
-          <MarkdownBody source={markdown} />
+          <MarkdownBody source={article.body} />
         </article>
 
         {cusdisAppId ? (
@@ -123,7 +154,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               Sobre el autor
             </h2>
             <p className="text-sm leading-relaxed text-black/60">
-            Luis escribe historias breves, ideas torcidas y pensamientos que probablemente deberían haberse quedado en su cabeza.
+              Luis escribe historias breves, ideas torcidas y pensamientos que probablemente deberían haberse quedado en su cabeza.
             </p>
           </div>
           <div className="flex flex-col gap-4">
@@ -132,9 +163,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </h2>
             <div className="flex flex-col gap-2 items-start">
               <CopyLinkButton />
-              {/* <button className="text-[10px] hover:line-through uppercase tracking-widest">
-                Newsletter
-              </button> */}
             </div>
           </div>
         </footer>
@@ -144,4 +172,3 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     </div>
   );
 }
-

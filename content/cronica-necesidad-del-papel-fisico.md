@@ -1,3 +1,16 @@
+---
+id: '002'
+slug: cronica-necesidad-del-papel-fisico
+indexNumber: '002'
+year: '2026'
+kind: CRÓNICA
+title: La ¿necesidad? de escribir
+summary: >-
+  Una breve reflexión sobre por qué algunas ideas necesitan ser escritas para no
+  desbordarse por dentro.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Escribo porque algunas ideas se quedan demasiado tiempo dando vueltas. No hacen
 ruido, pero se acomodan en los rincones y empiezan a mover las cosas de lugar:
 un recuerdo, una frase escuchada mal, una escena que tal vez ocurrió o tal vez

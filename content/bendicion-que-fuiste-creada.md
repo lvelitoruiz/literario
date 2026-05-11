@@ -1,3 +1,16 @@
+---
+id: '027'
+slug: bendicion-que-fuiste-creada
+indexNumber: '027'
+year: '2026'
+kind: HAYLA
+title: Bendición que fuiste creada
+summary: >-
+  Entre la sospecha de estar soñándola y la certeza de su realidad, promete ser
+  su alegría y su referencia de felicidad.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Pero, siendo lo que sea que soy, siempre pienso: eres tan lo que esperaba que,
 ¿no te estaré soñando? ¿No estaré aún en la sala de operaciones imaginándote?
 ¿O acaso te he importado desde mi sueño a la realidad?

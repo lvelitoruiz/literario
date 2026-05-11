@@ -1,3 +1,16 @@
+---
+id: '022'
+slug: la-piel-de-tu-espalda
+indexNumber: '022'
+year: '2026'
+kind: HAYLA
+title: La piel de tu espalda
+summary: >-
+  Un deseo explícito pero tierno, sobre controlarse, preguntar y querer
+  compartir también el cuerpo, no solo las palabras.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 La piel de tu espalda es lo más suave que he podido tocar, tu piel, tu cuerpo,
 mientras te besaba el cuello, sentirte apretarte contra mí, tu respiración
 agitada. Durante un momento pensé en arrastrarte a la cama tras la pared y

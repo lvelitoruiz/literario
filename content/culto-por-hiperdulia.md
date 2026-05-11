@@ -1,5 +1,16 @@
-# Culto por hiperdulía
-
+---
+id: '004'
+slug: culto-por-hiperdulia
+indexNumber: '004'
+year: '2026'
+kind: ENSAYO
+title: Culto por hiperdulía
+summary: >-
+  Un monólogo devocional y hereje sobre altares íntimos, abstinencia, fe
+  desviada y una adoración dirigida a alguien muy humano.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 El tiempo ha ido pasando sobre el cadáver inerte de mis frases, como oración o
 como parafraseo de otros latidos místicos, de palabras litúrgicas o de alguna
 que otra rima de la misa, para pensar en pedir que me conceda (a algún señor

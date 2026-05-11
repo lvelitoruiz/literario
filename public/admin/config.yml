@@ -1,0 +1,130 @@
+# Configuración de Decap CMS para el blog.
+#
+# Desarrollo local:
+#   1. En una terminal:  npx decap-server
+#   2. En otra terminal: npm run dev
+#   3. Abre http://localhost:3000/admin
+#   El flag `local_backend: true` hace que Decap, cuando detecta que está
+#   corriendo en localhost, hable con decap-server (que lee/escribe los
+#   archivos reales del repo) en lugar de hablar con GitHub. Así editas
+#   en local sin necesidad de OAuth.
+#
+# Producción (Vercel):
+#   Decap usa el backend `github` con el OAuth proxy de este mismo proyecto
+#   (ver src/app/api/auth/*). Requiere las env vars OAUTH_GITHUB_CLIENT_ID
+#   y OAUTH_GITHUB_CLIENT_SECRET configuradas en Vercel.
+
+local_backend: true
+
+backend:
+  name: github
+  repo: lvelitoruiz/literario
+  branch: main
+  base_url: https://literario.vercel.app
+  auth_endpoint: api/auth
+
+media_folder: public/uploads
+public_folder: /uploads
+
+locale: es
+
+site_url: https://literario.vercel.app
+display_url: https://literario.vercel.app
+logo_url: /favicon.ico
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: articles
+    label: "Artículos"
+    label_singular: "Artículo"
+    folder: content
+    create: true
+    delete: true
+    extension: md
+    format: yaml-frontmatter
+    slug: "{{slug}}"
+    summary: "{{indexNumber}} · {{kind}} · {{title}}"
+    sortable_fields: ["indexNumber", "publishedAt", "title"]
+    view_filters:
+      - label: "Solo borradores"
+        field: draft
+        pattern: true
+      - label: "Solo publicados"
+        field: draft
+        pattern: false
+      - label: "Solo Podcast"
+        field: kind
+        pattern: PODCAST
+      - label: "Solo Crónicas"
+        field: kind
+        pattern: CRÓNICA
+      - label: "Solo Hayla"
+        field: kind
+        pattern: HAYLA
+    fields:
+      - {
+          name: draft,
+          label: "Borrador",
+          widget: boolean,
+          default: true,
+          hint: "Mientras esté marcado, el post NO aparece en el blog público. Desmárcalo para publicar.",
+        }
+      - { name: title, label: "Título", widget: string }
+      - { name: slug, label: "Slug (URL)", widget: string, hint: "Sin espacios, en minúsculas. Define la URL del artículo." }
+      - { name: id, label: "ID interno", widget: string, hint: "Usualmente igual a indexNumber. Debe ser único." }
+      - { name: indexNumber, label: "Número de índice", widget: string, hint: "Tres dígitos, ej: 052" }
+      - { name: year, label: "Año", widget: string, default: "2026" }
+      - {
+          name: kind,
+          label: "Categoría",
+          widget: select,
+          options:
+            [
+              "ENSAYO",
+              "FICCIÓN",
+              "TEORÍA",
+              "RELATO",
+              "CRÓNICA",
+              "HAYLA",
+              "PODCAST",
+            ],
+          default: "ENSAYO",
+        }
+      - { name: summary, label: "Resumen", widget: text, hint: "Aparece en listados, 1–3 frases." }
+      - { name: author, label: "Autor", widget: string, default: "Luis" }
+      - { name: publishedAt, label: "Fecha (visible)", widget: string, hint: 'Formato libre, ej: "10 de Mayo, 2026"' }
+
+      # Campos solo relevantes para PODCAST. Decap los muestra siempre,
+      # déjalos vacíos si el artículo no es de tipo PODCAST.
+      - {
+          name: audioUrl,
+          label: "URL de SoundCloud (solo PODCAST)",
+          widget: string,
+          required: false,
+          hint: "Pega la URL completa del track o set de SoundCloud.",
+        }
+      - {
+          name: episodeNumber,
+          label: "Número de episodio (solo PODCAST)",
+          widget: number,
+          required: false,
+          value_type: "int",
+        }
+      - {
+          name: audioDurationSec,
+          label: "Duración en segundos (solo PODCAST)",
+          widget: number,
+          required: false,
+          value_type: "int",
+        }
+
+      - {
+          name: body,
+          label: "Cuerpo",
+          widget: markdown,
+          hint: 'Para insertar audio en cualquier post: ::soundcloud{url="https://soundcloud.com/..."}',
+        }

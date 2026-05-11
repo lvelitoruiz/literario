@@ -1,0 +1,24 @@
+# CODEOWNERS — define quién debe aprobar cambios sobre ciertos paths.
+# Activa este archivo combinándolo con una rule de "Require review from
+# Code Owners" en GitHub → Settings → Rules → Rulesets (o Branch protection).
+#
+# Documentación oficial:
+# https://docs.github.com/en/repositories/managing-your-repositories-settings-and-security/customizing-your-repository/about-code-owners
+
+# Default: cualquier cambio a cualquier archivo requiere aprobación de @lvelitoruiz
+*                @lvelitoruiz
+
+# Contenido del blog (posts en Markdown). Los colaboradores podrán proponer
+# cambios pero solo @lvelitoruiz los puede aprobar.
+/content/        @lvelitoruiz
+
+# Configuración del CMS y de la build. Sensible: nadie más debería tocarlo.
+/public/admin/   @lvelitoruiz
+/src/            @lvelitoruiz
+/next.config.ts  @lvelitoruiz
+/middleware.ts   @lvelitoruiz
+/package.json    @lvelitoruiz
+
+# Cualquier cosa relacionada con secretos o el repo de GitHub.
+/.github/        @lvelitoruiz
+/.env*           @lvelitoruiz

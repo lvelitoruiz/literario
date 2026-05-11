@@ -1,3 +1,16 @@
+---
+id: '045'
+slug: centro-tergiversacion
+indexNumber: '045'
+year: '2026'
+kind: FICCIÓN
+title: Centro (Tergiversación)
+summary: >-
+  Una relectura amarga del centro compartido: destino, obsesión y culpa en una
+  órbita que ya no sabe distinguir verdad de consuelo.
+author: Luis
+publishedAt: '26 de Marzo, 2026'
+---
 Pensando en cómo me suceden las cosas, entendí algo incómodo: lo sencillo que me resultaba falsificar motivos para ser feliz. Algo, en alguna parte, se reía, mientras yo pensaba en milagros y destino cuando nos cruzamos. Tenía ya listo el altar en el cual te iba a colocar, mi felicidad se reducía a eso, al momento exacto en que nuestras órbitas coincidían, no exactamente en el mismo plano.
 
 Más bien en el mismo universo.

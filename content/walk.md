@@ -1,5 +1,16 @@
-# Walk
-
+---
+id: '006'
+slug: walk
+indexNumber: '006'
+year: '2026'
+kind: FICCIÓN
+title: Walk
+summary: >-
+  Una caminata nocturna por Lima con un guía contradictorio de ojos rojos y una
+  niña azul que se deja arrastrar por el peligro.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Confía en mí, yo sé lo que hago —te había dicho.  
 Y tú cerraste los ojos y lo seguiste.
 

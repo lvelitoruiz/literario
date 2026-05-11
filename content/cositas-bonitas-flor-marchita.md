@@ -1,3 +1,16 @@
+---
+id: '036'
+slug: cositas-bonitas-flor-marchita
+indexNumber: '036'
+year: '2026'
+kind: FICCIÓN
+title: 'Cositas bonitas, flor marchita'
+summary: >-
+  Un lamento por los restos de un amor que se fue, entre pingüinos infieles,
+  cigarros intactos y un mundo de ternuras que ya no se terminará de construir.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Soñé con sus besos, con sus abrazos, con su piel. Me quedé pensando en cuánto la extrañaba y cómo su aroma a canela ahora representaba todas las cosas bonitas. Todos los vídeos de "Nosotros en otro universo" y peces besándose, nutrias de la mano, pingüinos para siempre. Eso pensé por un tiempo indefinido, mientras lloraba las últimas lágrimas que me quedaban.
 
 ¿Cómo es que el recuerdo de lo futuro puede herirme tanto? No tengo una respuesta y tampoco me la vas a dar, yo seguiré aquí, marchitándome, ya ni siquiera lentamente, aún más rápido que antes de conocerte.

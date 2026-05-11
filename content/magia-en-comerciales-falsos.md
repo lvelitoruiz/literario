@@ -1,3 +1,16 @@
+---
+id: 028
+slug: magia-en-comerciales-falsos
+indexNumber: 028
+year: '2026'
+kind: HAYLA
+title: Magia en comerciales falsos
+summary: >-
+  Aunque las películas de romance sean obviamente fabricadas, confía en que con
+  ella todo puede ser tan mágico como una historia de cine.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 A veces, los comerciales son ciertamente falsos, tontos, las películas son
 obviamente fabricadas y no hay manera de que las cosas que hay en ellas sean
 reales.

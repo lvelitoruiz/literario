@@ -1,3 +1,17 @@
+---
+id: 029
+slug: cuanto-te-quiero-caracol-luz
+indexNumber: 029
+year: '2026'
+kind: HAYLA
+title: ¿Cuánto te quiero?
+summary: >-
+  Intenta medir cuánto la quiere en años luz recorridos por un caracol, con
+  intensidad de gato naranja en drogas y paz de adulto que organiza al niño
+  enamorado.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 A veces es extraño y podría preguntarte cuánto te quiero y quizá, asustada,
 ¿por qué tanto? ¿Y en tan poco tiempo? Pero quiero ser claro en que todo tiene
 siempre una explicación y esta explicación muchas veces es algo más profundo de

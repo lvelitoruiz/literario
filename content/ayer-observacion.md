@@ -1,3 +1,16 @@
+---
+id: '005'
+slug: ayer-observacion
+indexNumber: '005'
+year: '2026'
+kind: ENSAYO
+title: Ayer… (observación clínica)
+summary: >-
+  Siete fragmentos numerados sobre enajenación, frío interno y el miedo a ser
+  observado desde el otro lado de la pantalla.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 # Ayer…
 
 **Uno:** Hay lugares que quedan reducidos al tiempo que tardas en atravesarlos, a

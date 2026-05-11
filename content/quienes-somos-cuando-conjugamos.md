@@ -1,3 +1,16 @@
+---
+id: 019
+slug: quienes-somos-cuando-conjugamos
+indexNumber: 019
+year: '2026'
+kind: HAYLA
+title: Quiénes somos cuando conjugamos
+summary: >-
+  Una reflexión sobre dejar de ser un sustantivo aislado para volverse verbo
+  compartido con la persona que quieres.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Quienes somos? Cuando salimos del camino cómodo en el cual nos solemos mover,
 quienes somos en sí? Cuando abandonamos nuestra individualidad para compensar a
 la persona que queremos, no es que abandonemos nuestra esencia, no? Estamos ahí,

@@ -1,3 +1,16 @@
+---
+id: '044'
+slug: centro
+indexNumber: '044'
+year: '2026'
+kind: HAYLA
+title: Centro
+summary: >-
+  Una carta que la imagina como centro de gravedad y brújula, destino inevitable
+  al que todos los caminos regresan.
+author: Luis
+publishedAt: '26 de Marzo, 2026'
+---
 Por otro lado pensando en cómo las cosas suceden, me he dado cuenta de que a veces es sencillo encontrar un motivo para ser feliz, y en este caso aún siendo que sea un pequeño milagro que nosotros estuviéramos en el camino del otro, una vez que esto sucede, las cosas empiezan a caminar sobre ruedas y empiezas a sentir que la felicidad es eso que sucede cuando nos encontramos el uno al otro, no exactamente cuando existimos en el mismo universo, sino cuando interactuamos, sea de cerca o de lejos.
 
 Tu centro de gravedad me atrae y como dije en algún momento (en algún cuento) orbito alrededor de ti en parábolas extrañas, y sin embargo, aún cuando más lejos, es tu influencia la que controla la marea de mi sangre, la que me hace latir despacio o fuerte, y yo, como el mar, me entrego completamente a ti sin manera de escapar, sin deseo de hacerlo. 

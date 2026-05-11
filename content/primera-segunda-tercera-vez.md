@@ -1,3 +1,16 @@
+---
+id: '015'
+slug: primera-segunda-tercera-vez
+indexNumber: '015'
+year: '2026'
+kind: HAYLA
+title: 'La primera, segunda y tercera vez'
+summary: >-
+  Una carta que recuerda las primeras veces que se vieron, el nerviosismo, las
+  ausencias y el deseo de un futuro compartido.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 La primera vez que te vi, no podía creer que fueras más bonita que en tus fotos,
 pensé que quizá porque era oscuro, la iluminación, la noche, y fue hermoso
 porque pudimos conversar y reírnos, pero fue más hermoso porque te pusiste roja

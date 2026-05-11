@@ -1,3 +1,16 @@
+---
+id: '024'
+slug: afirmacion-no-solo-validacion
+indexNumber: '024'
+year: '2026'
+kind: HAYLA
+title: 'Afirmación, no solo validación'
+summary: >-
+  Un mensaje sobre decirle, una y otra vez, que es hermosa, inteligente y que
+  incluso sus pausas y vergüenzas lo enamoran.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Ayer me dijiste que te gustaba que hiciera sentir alguna especie de sinónimo de
 “validada” pero no tan así, pero lo que yo te doy no es solo validación, o no es
 solo lo que te quiero dar: es afirmación. Quiero que sepas de manera firme que

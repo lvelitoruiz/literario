@@ -1,3 +1,16 @@
+---
+id: '025'
+slug: queremos-mas-que-textos-bonitos
+indexNumber: '025'
+year: '2026'
+kind: HAYLA
+title: Queremos más que textos bonitos
+summary: >-
+  Una nota escrita en viaje, entre la ansiedad de extrañarla, las ganas de crear
+  y el deseo de poder darle todo de sí.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 He viajado hoy día, bb, y la vorágine de esto no me ha dejado escribirte algo
 largo hoy. Sé que te he escrito algunas cositas bonitas que te enternecen, y
 quiero hacerlo también; es una etapa bonita en la cual estamos enamorándonos más

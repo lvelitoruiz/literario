@@ -1,3 +1,16 @@
+---
+id: 049
+slug: canela-revision
+indexNumber: 049
+year: '2026'
+kind: FICCIÓN
+title: Canela - Revisión
+summary: >-
+  Una despedida bajo garúa y canela: deseo, culpa y obsesión en una noche limeña
+  que se estira como limbo.
+author: Luis
+publishedAt: '3 de Abril, 2026'
+---
 Cuando me desperté estaba besándote, tus labios húmedos sabían a canela, y me trajo recuerdos de cigarros oscuros en un atardecer púrpura, de garúa limeña, mientras me escondía de la seguridad con la cara descubierta, en esta luz limeña que se apaga y me devuelve a contar tus lunares a solas.
 
 Empecé a besar tu cuello, te sentí apretarte contra mí, tu cabeza hacia atrás, tus manos en mi cabello empujando mi cara más profundo, ahogándome en silencio, bajé mis manos hacia tus caderas, pero ahí estaba tu ropa.

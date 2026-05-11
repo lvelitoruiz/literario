@@ -1,3 +1,17 @@
+---
+id: '001'
+slug: rituales-breves
+indexNumber: '001'
+year: '2026'
+kind: ENSAYO
+title: Rituales Breves
+summary: >-
+  Rituales mínimos: duendes que intervienen la escritura, conductores
+  hipnotizados por la luz roja y ceremonias íntimas para cantar, hablar y
+  extrañar.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 **Sobre duendes, creo…**
 
 Hay alguien que arranca las hojas que escribo, que se come mis ideas, que me

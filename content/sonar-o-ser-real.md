@@ -1,3 +1,16 @@
+---
+id: '026'
+slug: sonar-o-ser-real
+indexNumber: '026'
+year: '2026'
+kind: HAYLA
+title: ¿Soñar o ser real?
+summary: >-
+  Entre la duda de estar soñándola en una sala de operaciones y la certeza de
+  que sus besos son reales, promete vivir la vida haciéndola feliz.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Pero, siendo lo que sea que soy, siempre pienso: eres tan lo que esperaba que,
 ¿no te estaré soñando? ¿No estaré aún en la sala de operaciones imaginándote? O
 acaso te he importado desde mi sueño a la realidad?

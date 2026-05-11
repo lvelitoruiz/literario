@@ -1,3 +1,16 @@
+---
+id: '043'
+slug: evil-obstacle-1
+indexNumber: '043'
+year: '2026'
+kind: FICCIÓN
+title: Evil / Obstacle 1
+summary: >-
+  Una violencia contenida en un pogo lluvioso: sedación, olores y límites que se
+  rompen en dos cuerpos acercándose demasiado.
+author: Luis
+publishedAt: '26 de Marzo, 2026'
+---
 No es que necesite de esta violencia (quiero creer) pero ahora mismo necesito sedarme y estamos demasiado apretados como para encender un cigarro. *(It's the smiling on the package)* Puedo empezar por golpearlos a ustedes entonces — con, o sin su permiso — me es completamente placentero y lejano a la vez, justo algo que no me pienso negar. Perderme en ustedes. Como si fueran las partes que odio de mí mismo estos días. No es contra ustedes. Es a mi favor. Además son débiles.
 
 Como yo.

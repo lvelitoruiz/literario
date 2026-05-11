@@ -5,7 +5,7 @@ import { SiteFooter } from "@/components/SiteFooter";
 import { ThinDivider } from "@/components/ThinDivider";
 import { CategoryPagination } from "@/components/CategoryPagination";
 import Link from "next/link";
-import { articles, type ArticleKind } from "@/data/archive";
+import { getArticlesByKind, type ArticleKind } from "@/lib/articles";
 
 const CATEGORY_CONFIG: Record<
   string,
@@ -17,6 +17,7 @@ const CATEGORY_CONFIG: Record<
   teoria: { label: "Teoría", kinds: ["TEORÍA"] },
   relatos: { label: "Relatos", kinds: ["RELATO"] },
   hayla: { label: "Hayla", kinds: ["HAYLA"] },
+  podcast: { label: "Podcast", kinds: ["PODCAST"] },
 };
 
 export async function generateStaticParams() {
@@ -30,9 +31,9 @@ interface CategoryPageProps {
   params: Promise<{
     slug: string;
   }>;
-  searchParams?: {
+  searchParams?: Promise<{
     page?: string;
-  };
+  }>;
 }
 
 export default async function CategoryPage({
@@ -40,6 +41,7 @@ export default async function CategoryPage({
   searchParams,
 }: CategoryPageProps) {
   const { slug } = await params;
+  const resolvedSearchParams = await searchParams;
 
   const config = CATEGORY_CONFIG[slug];
 
@@ -57,9 +59,7 @@ export default async function CategoryPage({
     }
   }
 
-  let filteredArticles = [...articles]
-    .reverse() // último agregado primero
-    .filter((article) => config.kinds.includes(article.kind));
+  let filteredArticles = (await getArticlesByKind(config.kinds)).reverse();
 
   // Orden prioritario solo para la categoría FICCIÓN
   if (slug === "ficcion") {
@@ -72,7 +72,7 @@ export default async function CategoryPage({
 
     const prioritized = prioritySlugs
       .map((s) => filteredArticles.find((a) => a.slug === s))
-      .filter((a): a is (typeof articles)[number] => a !== undefined);
+      .filter((a): a is (typeof filteredArticles)[number] => a !== undefined);
 
     const rest = filteredArticles.filter(
       (a) => !prioritySlugs.includes(a.slug),
@@ -90,7 +90,7 @@ export default async function CategoryPage({
     ? Math.max(1, Math.ceil(filteredArticles.length / PAGE_SIZE))
     : 1;
 
-  const requestedPageRaw = searchParams?.page;
+  const requestedPageRaw = resolvedSearchParams?.page;
   const requestedPageStr = Array.isArray(requestedPageRaw)
     ? requestedPageRaw[0]
     : requestedPageRaw;
@@ -126,8 +126,6 @@ export default async function CategoryPage({
           </h1>
           <ThinDivider />
         </header>
-
-        
 
         {filteredArticles.length === 0 ? (
           <p className="mt-16 text-sm text-black/60 max-w-md">
@@ -186,4 +184,3 @@ export default async function CategoryPage({
     </div>
   );
 }
-

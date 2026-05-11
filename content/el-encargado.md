@@ -1,3 +1,16 @@
+---
+id: '042'
+slug: el-encargado
+indexNumber: '042'
+year: '2026'
+kind: FICCIÓN
+title: El encargado
+summary: >-
+  Bajo la garúa limeña, un narrador observa la huida de todos y asume su oficio:
+  invocarla y sostener el centro de una melancolía que nadie más admite.
+author: Luis
+publishedAt: '24 de Marzo, 2026'
+---
 Esta tarde he visto como llovía. Me senté en el letrero que elegí de una calle a observar a los transeúntes escapar despavoridos de este centro, para no mojarse el pelo, para no mancharse los zapatos, ni la ropa. Nadie parece combinar con el polvo mojado, hermoso desperdicio de Lima. Todo el viento que por desvío se liberó de su cauce, llegó temblando a los faroles, que desnudaban unas gotas pequeñitas y tristes, que rebotan en el recuerdo, como en cristales, de una fragilidad que invita al accidente, en la equivocada idea de que destruir es igualar. Vi los charcos empozados en la pista y los fui quebrando de uno en uno, para no delatar en la quietud mi reflejo, ni los faroles naranjas ante mis ojos. Todos corrían y tú terminaste de dibujarte en cada gota que yo fallaba en detener. Reemplazando mi imagen y la ciudad con tu rostro riéndose, ya para siempre, de lo inútil de mi danza.
 
 Esta tarde vi llover. Me senté a observar cómo caías como cristal, aunque lo negara. A veces me sorprendes, cuando estoy desprevenido, y aún dibujo en el aire las únicas letras que nunca he olvidado, las que me permiten invocarte. Todos se empujan en el caos de la huida mientras yo aún decido mojarme, hipócritamente mezclo la lluvia con las lágrimas, pienso que así me escondo, que evito mostrar los documentos, nadie ha pasado a pedírmelos, todos corrieron en distintas direcciones, y yo he sido el único que no ha dejado de mirar arriba, con las manos en los bolsillos. Vi que la gente escapaba del centro de la lluvia y memoricé sus rostros, en la esperanza de acusarlos ante ti, de demostrar que no es mi culpa. A veces me sorprendes, cuando estoy despertando por ejemplo.

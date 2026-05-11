@@ -1,3 +1,16 @@
+---
+id: '014'
+slug: semillas-y-flores
+indexNumber: '014'
+year: '2026'
+kind: HAYLA
+title: Semillas y flores
+summary: >-
+  Sobre la melancolía de la distancia, las semillas que alguien planta en ti y
+  el deseo de devolverle las flores que nacen de ellas.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Sabes? Hay momentos en los que te recuerdo más fuerte y me haces falta, es como
 que micro momentos, chispazos, en los cuales me entra así la melancolía de que
 estés lejos, de que la Luna de mi vida que eres no se vea, luna nueva, pero tu

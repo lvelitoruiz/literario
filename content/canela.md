@@ -1,5 +1,16 @@
-# Canela
-
+---
+id: '011'
+slug: canela
+indexNumber: '011'
+year: '2026'
+kind: FICCIÓN
+title: Canela
+summary: >-
+  Un recuerdo de besos con sabor a canela, una despedida en taxi y la búsqueda
+  imposible de un cigarrillo que prolongue esa ausencia.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Cuando me desperté estaba besándote, tus labios suaves sabían a canela, y me
 trajo recuerdos de cigarros oscuros en tiempos felices, de garúa limeña mientras
 me escondía de la seguridad con la cara descubierta en esta luz limeña que nos

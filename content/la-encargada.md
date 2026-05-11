@@ -1,3 +1,16 @@
+---
+id: '046'
+slug: la-encargada
+indexNumber: '046'
+year: '2026'
+kind: FICCIÓN
+title: La Encargada
+summary: >-
+  Una noche limeña de clavo de olor, colas y pogo: una voz que orbita la
+  violencia ajena y deja que el tatuaje y la música hagan el resto.
+author: Luis
+publishedAt: '3 de Abril, 2026'
+---
 Nunca tengo necesidad de nada exactamente, llevo una existencia aburrida, marcada por pequeños rituales diarios, pequeñas maldades leves, pequeños picos de excitación, tiempos violentos (ritual mensual) que nunca son realmente mi culpa, más bien culpa de este tatuaje que solo entiendo por intuición y que suele causar que los demás exhiban lo que realmente desean ser, yo, mujer en shock, me quedo paralizada mientras los problemas escalan.
 
 No puedo evitar llevar los audífonos puestos, me distraen de una realidad que me hastía, me elevan: *algunas noches, soy fácil, woh-oh, woh-oh, no acato límites* algunas noches, algunas noches…

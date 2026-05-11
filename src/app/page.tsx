@@ -3,12 +3,13 @@ import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { ThinDivider } from "@/components/ThinDivider";
 import { CategoryPagination } from "@/components/CategoryPagination";
-import { articles } from "@/data/archive";
+import { SoundCloudEmbed } from "@/components/SoundCloudEmbed";
+import { getAllArticles } from "@/lib/articles";
 
 interface HomeProps {
-  searchParams?: {
+  searchParams?: Promise<{
     page?: string | string[];
-  };
+  }>;
 }
 
 export const dynamic = "force-dynamic";
@@ -16,14 +17,20 @@ export const revalidate = 0;
 
 export default async function Home({ searchParams }: HomeProps) {
   const resolvedSearchParams = await searchParams;
-  // último agregado primero
-  const ordered = [...articles].reverse();
+  const all = await getAllArticles();
+  const ordered = [...all].reverse();
 
   const narrativeArticles = ordered.filter(
-    (article) => article.kind !== "CRÓNICA" && article.kind !== "HAYLA",
+    (article) =>
+      article.kind !== "CRÓNICA" &&
+      article.kind !== "HAYLA" &&
+      article.kind !== "PODCAST",
   );
   const chronicleArticles = ordered.filter(
     (article) => article.kind === "CRÓNICA",
+  );
+  const podcastArticles = ordered.filter(
+    (article) => article.kind === "PODCAST",
   );
 
   const PAGE_SIZE = 10;
@@ -116,6 +123,62 @@ export default async function Home({ searchParams }: HomeProps) {
           )}
         </section>
 
+        {podcastArticles.length > 0 && (
+          <section
+            id="podcast"
+            className="mt-48"
+            data-purpose="podcast-list"
+          >
+            <div className="mb-0">
+              <h2 className="text-[10px] uppercase tracking-[0.3em] font-semibold mb-4">
+                AUDIO
+              </h2>
+              <h1 className="text-3xl md:text-5xl lg:text-6xl font-normal tracking-tight mb-12">
+                EPISODIOS
+              </h1>
+              <ThinDivider />
+            </div>
+
+            <div className="grid grid-cols-1 gap-y-16">
+              {podcastArticles.map((article) => (
+                <article
+                  key={article.id}
+                  className="group pb-12 pt-12 border-b border-black/10"
+                  data-purpose="podcast-entry"
+                >
+                  <div className="flex flex-col md:flex-row md:items-start gap-8">
+                    <div className="md:w-24 flex-shrink-0 pt-1">
+                      <span className="text-[10px] uppercase tracking-[0.3em] text-black/50">
+                        {article.episodeNumber
+                          ? `EP. ${String(article.episodeNumber).padStart(2, "0")}`
+                          : article.indexNumber}
+                      </span>
+                    </div>
+                    <div className="flex-grow max-w-3xl space-y-4">
+                      <Link
+                        href={`/archivo/${article.slug}`}
+                        className="block group-hover:text-[#7AA5BF] transition-colors"
+                      >
+                        <h3 className="text-2xl md:text-3xl font-normal tracking-tight leading-tight">
+                          {article.title}
+                        </h3>
+                      </Link>
+                      {article.summary && (
+                        <p className="text-sm md:text-base text-black/60 font-light leading-relaxed">
+                          {article.summary}
+                        </p>
+                      )}
+                      {article.audioUrl && (
+                        <SoundCloudEmbed url={article.audioUrl} compact />
+                      )}
+                    </div>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </section>
+        )}
+
         <section
           id="journal"
           className="mt-48 grid grid-cols-1 md:grid-cols-12 gap-8"
@@ -150,4 +213,3 @@ export default async function Home({ searchParams }: HomeProps) {
     </div>
   );
 }
-

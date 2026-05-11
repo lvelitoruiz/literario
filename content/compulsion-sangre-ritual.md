@@ -1,3 +1,16 @@
+---
+id: '003'
+slug: compulsion-sangre-ritual
+indexNumber: '003'
+year: '2026'
+kind: ENSAYO
+title: ¿Compulsión? / ¿Sangre ritual?
+summary: >-
+  Dos fragmentos en espiral sobre psicosis, sangre y el placer oscuro de jugar
+  con el propio latido.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 # ¿Compulsión?
 
 Comenzaré desde una condición inicial, alterando la ecuación no lineal del

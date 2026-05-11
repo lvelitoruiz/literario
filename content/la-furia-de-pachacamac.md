@@ -1,5 +1,16 @@
-# La furia de Pachacamac
-
+---
+id: '007'
+slug: la-furia-de-pachacamac
+indexNumber: '007'
+year: '2026'
+kind: FICCIÓN
+title: La furia de Pachacamac
+summary: >-
+  Una noche fría en Lima, una conversación en Kilka y la presencia latente de
+  Pachacamac mientras dos personas caminan hacia ninguna parte.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Las volutas de humo que escapan de tu boca van marcando el camino que toman
 todas las posesiones demoníacas antes de expresarse en cosas tan banales como
 la lujuria o los besos sin amor (hay cosas menos excitantes que finalmente

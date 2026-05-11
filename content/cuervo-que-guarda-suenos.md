@@ -1,3 +1,16 @@
+---
+id: '020'
+slug: cuervo-que-guarda-suenos
+indexNumber: '020'
+year: '2026'
+kind: HAYLA
+title: Cuervo que guarda sueños
+summary: >-
+  Sobre guardar lugares y recetas como piedritas brillantes, soñar viajes de
+  pingüinos tomados de la mano y quererla bonito, sin reticencias.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Como que, comienzo a guardar vídeos de lugares chéveres o recetas, no sé,
 parezco un cuervo guardando piedritas brillantes, esperando a usarlos en algún
 momento, a visitar esos sitios. Es mi sueño el ir a todos lados, pero también lo

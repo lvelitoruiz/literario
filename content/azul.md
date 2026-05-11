@@ -1,3 +1,16 @@
+---
+id: '040'
+slug: azul
+indexNumber: '040'
+year: '2026'
+kind: FICCIÓN
+title: Azul
+summary: >-
+  Una ciudad de melancolía y garúa donde una muñeca azul activa recuerdos,
+  culpas y una tristeza que se queda pegada a la retina.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 He escrito tu nombre en las ventanas de todos los buses que empañé con mi propio aliento, para volver a tenerte cerca, para no olvidar tus letras, o solo para observar el reflejo cansado de mis ojos rojos.
 
 Tenía siempre la muñequita colgando del cierre de mi maletín... era extraña, estudiadamente extraña, pero llamaba la atención, de esas que garantizan preguntas que luego podía responder con fingida modestia (pero auténticamente avergonzado). Cada vez que las respondía, sentía que se volvía más y más falsa, o quizá más desgastada, porque las historias, cuando las cuentas, terminan por perder algo de esa magia que les imprime la realidad. Esa fotografía inicial, de la cual (confieso) solo hablo para llamar la atención.

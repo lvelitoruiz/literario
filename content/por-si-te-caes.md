@@ -1,3 +1,16 @@
+---
+id: '033'
+slug: por-si-te-caes
+indexNumber: '033'
+year: '2026'
+kind: ENSAYO
+title: Por si te caes
+summary: >-
+  Una carta que prepara colchones de palabras, cuadernos y hojas de helecho por
+  si ella cae, para que nunca se golpee sola al bajar de ese altar.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Por si te caes, he escrito abajo de ti
 todas las letras que cabían en el espacio que deja el aire,
 para estar entre tú y el suelo,

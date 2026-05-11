@@ -1,5 +1,16 @@
-# Canela Re-edición
-
+---
+id: '051'
+slug: canela-re-edicion
+indexNumber: '051'
+year: '2026'
+kind: FICCIÓN
+title: Canela Re-edición
+summary: >-
+  Una noche extendida entre garúa, deseo y desvíos: despedirse, buscar un
+  cigarro imposible y volver al centro de una obsesión que no termina.
+author: Luis
+publishedAt: '28 de Abril, 2026'
+---
 Cuando me desperté estaba besándote, tus labios húmedos sabían a canela, y me trajo recuerdos de cigarros oscuros en un atardecer púrpura, de garúa limeña, mientras me escondía de la seguridad con la cara descubierta, en esta luz limeña que se apaga y me devuelve a contar tus lunares a solas.
 
 Empecé a besar tu cuello, te sentí apretarte contra mí, tu cabeza hacia atrás, tus manos en mi cabello empujando mi cara más profundo, ahogándome en silencio, bajé mis manos hacia tus caderas, pero ahí estaba tu ropa.

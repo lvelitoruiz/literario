@@ -1,3 +1,16 @@
+---
+id: '032'
+slug: como-te-conoci
+indexNumber: '032'
+year: '2026'
+kind: HAYLA
+title: Cómo te conocí
+summary: >-
+  Relato de cómo una app, un viaje a Brasil y mensajes de voz se convirtieron en
+  el inicio de un enamoramiento absoluto y agradecido.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Te vi en una app, no? No sabía entonces que te estaba buscando, pero lo estaba haciendo. Recuerdo que fue muy tonto porque justo me iba a Brasil en unos días pero igual decidí crear esa cuenta con tan poco tiempo y la verdad el primer día te vi, vi tu cabello hermoso, tu peinado, tus ojos pequeños, tu piel morena y caí inmediatamente enamorado, fin… 
 
 Ok no, sí, me encantaste, como aún me encantas, con esa sensación de que quisiera poder tocar la pantalla y acariciarte que aún me sucede cuando veo la única foto que me regalaste. Es complicada de describir la fina interacción que uno desarrolla con un aparato que puede reproducir la imagen de lo que amas, no? 

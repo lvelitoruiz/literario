@@ -1,3 +1,16 @@
+---
+id: '017'
+slug: te-imaginas-felices
+indexNumber: '017'
+year: '2026'
+kind: HAYLA
+title: ¿Te imaginas?
+summary: >-
+  Un juego de imaginar una felicidad compartida, sin límites, hecha de noches en
+  vela, películas malas y cariño desbordado.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Sabes? No me importa si tú me despiertas, a otras personas a esa hora no les
 hago caso la verdad, pero contigo siempre va a ser diferente, incluso cuando
 estemos juntos y me olvide de sacar la basura y me botes de la cama para

@@ -1,5 +1,16 @@
-# Ollama
-
+---
+id: 009
+slug: ollama
+indexNumber: 009
+year: '2026'
+kind: FICCIÓN
+title: Ollama
+summary: >-
+  La vida interior de un llavero con forma de llama que observa a su dueño entre
+  tristeza, videos y noches de ojos rojos.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Ollama es un llavero peludo sin cuerpo, es una cabeza de llama, y su dueño,
 siguiendo un extraño ritual, le puso un nombre de software, pero en esencia es
 solo eso, un llavero con consciencia.

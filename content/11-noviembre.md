@@ -1,3 +1,16 @@
+---
+id: '050'
+slug: 11-noviembre
+indexNumber: '050'
+year: '2026'
+kind: FICCIÓN
+title: 11月
+summary: >-
+  Entre llamada larga, feria nocturna y neones de garúa, una deriva de
+  duplicidades, deseos y despedidas que se pisan entre sí.
+author: Luis
+publishedAt: '14 de Abril, 2026'
+---
 ねぇだから今日は そういつもより  
 長い電話をしよう  
 なんとなく君に 後ろめたいから  

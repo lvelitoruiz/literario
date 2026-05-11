@@ -1,5 +1,16 @@
-# Ahora anochece…
-
+---
+id: '010'
+slug: ahora-anochece
+indexNumber: '010'
+year: '2026'
+kind: FICCIÓN
+title: Ahora anochece…
+summary: >-
+  Un poema sobre cómo Lima se apaga poco a poco mientras permanecen encendidos
+  los sueños y la esperanza hacia alguien ausente.
+author: Luis
+publishedAt: '11 de Marzo, 2026'
+---
 Ahora anochece…
 
 Todo se está apagando en Lima.  

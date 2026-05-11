@@ -1,3 +1,16 @@
+---
+id: '016'
+slug: felicidad-que-escapa
+indexNumber: '016'
+year: '2026'
+kind: HAYLA
+title: Felicidad que aún no imagino
+summary: >-
+  Un deseo de felicidad compartida que todavía escapa a la imaginación, pero que
+  empieza a vivirse en un mundo construido de a dos.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Te imaginas? Ser así de felices sin preocuparse de nada? Irnos muy lejos de todo
 cuando no queramos tratar con el mundo y volver cuando queramos? Yo no me
 imagino por completo eso, porque en verdad necesitaría vivir en persona una

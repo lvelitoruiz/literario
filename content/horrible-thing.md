@@ -1,3 +1,16 @@
+---
+id: '035'
+slug: horrible-thing
+indexNumber: '035'
+year: '2026'
+kind: HAYLA
+title: Horrible thing
+summary: >-
+  Una carta de culpa y duelo por haber malogrado lo que prometió cuidar, con la
+  puerta abierta a que ella vuelva a reclamar su amor.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 No sé si vayas a leer esto ya, no sé si vuelvas a entrar aquí, pero te dejaré esto porque siento que he malogrado sin remedio lo que prometí cuidar.
 
 Las cosas que planeé, las cosas que te propuse, las cosas que dije, las hice pensando en proteger el Amor que te tengo, pensé que quizá si te gustaba todo eso y pensé que así te quedarías conmigo para siempre como yo quería.

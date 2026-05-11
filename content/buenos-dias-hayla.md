@@ -1,3 +1,16 @@
+---
+id: '012'
+slug: buenos-dias-hayla
+indexNumber: '012'
+year: '2026'
+kind: HAYLA
+title: Buenos días
+summary: >-
+  Un mensaje temprano, nervioso y feliz, para celebrar un 14 que quizá sea el
+  primero de muchos.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Buenos días!!!! Es súper temprano, pero la verdad es complicado dormir sabiendo
 que voy a verte hoy nuevamente. Todo lo bonito del mundo se me viene a la
 mente, pero a la vez no quiere salir por mi boca o mis manos, porque, bueno, son

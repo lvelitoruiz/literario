@@ -1,3 +1,17 @@
+---
+id: '041'
+slug: fumar-huir
+indexNumber: '041'
+year: '2026'
+kind: FICCIÓN
+title: 'Fumar, huir'
+summary: >-
+  Un regreso al vicio como coartada: apagar la escucha, escribir en soledad y
+  planear huir por lugares fríos, mientras el aroma a canela se queda como
+  compañía.
+author: Luis
+publishedAt: '23 de Marzo, 2026'
+---
 Apagado, como un cigarro a medio fumar, me seco en mi rincón, trabajando en algo que no estoy seguro vaya a ser leído, algo tal vez infructuoso, pero es lo más adecuado, creo, desde que mis oraciones dejaron de ser escuchadas he empezado a ser un poco más incrédulo (lo cual va a ser más duro en los vuelos, o cuando necesite un milagro express, pero ya veremos cuando veamos), he empezado a ser más severo conmigo mismo, inseguro, hay cosas que ya no van a salir a la luz más (recogiendo mis propias cenizas, veo que me dejé consumir, más allá de lo apropiado) pero creo que así estaba destinado a ser, es más fácil cuando no invierto, cuando no me comprometo sentimentalmente, todo funciona según el método.
 
 Claro, no todo es ganancia, prefiero malherido pero a gusto con lo que recibo, que entero con sobras. Y es triste que lo califique así, después de todo son personas, pero, al final de cuentas, ¿qué me importa? Tampoco es como que le importe mucho a nadie, es un poco de igualdad.

@@ -1,3 +1,16 @@
+---
+id: '013'
+slug: pensaba-ordenar-e-irme
+indexNumber: '013'
+year: '2026'
+kind: HAYLA
+title: Pensaba ordenar e irme mañana
+summary: >-
+  Una carta nocturna sobre extrañar, enamorarse cada día y el deseo de
+  compartirlo todo con la misma persona.
+author: Luis
+publishedAt: '14 de Febrero, 2026'
+---
 Pensaba ordenar e irme mañana en la mañana, pero la verdad, te extrañaba ahí,
 todo me hacía pensar en lo bonito que la pasamos y en lo mucho que me encantas,
 en lo bonita que eres cuando te sonrojas, en lo tímida que eres para ciertas
