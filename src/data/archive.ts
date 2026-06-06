@@ -626,5 +626,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "11 de Mayo, 2026",
   },
+  {
+    id: "053",
+    slug: "estaciones",
+    indexNumber: "053",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Estaciones",
+    summary:
+      "Cuatro estaciones entrelazadas en Lima: espejos, amancaes, ceviche y cerveza, un burócrata de la memoria y una visita al cementerio bajo la garúa.",
+    author: "Luis",
+    publishedAt: "6 de Junio, 2026",
+  },
 ];
 
