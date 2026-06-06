@@ -268,8 +268,8 @@ Hace una hora que nos despedimos en un callejón fuera de la vista de los demás
 
 -----------
 
-秋ならず
-木枯らしが我が
+秋ならず  
+木枯らしが我が  
 葉を奪う
 
 Vamos a hablar de la memoria. La memoria es el cuerpo de la realidad, la carne de tu cuerpo, igual que tú, la memoria está muriendo desde el momento en que nació, ¿sabes cuantas células cambias a diario?, tocar la memoria es engañarse, porque se acomoda y cambia sus células desde que sucede, en el segundo en que sucede, ya estás viviendo un recuerdo. 
