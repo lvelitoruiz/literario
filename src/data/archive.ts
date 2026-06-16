@@ -638,5 +638,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "6 de Junio, 2026",
   },
+  {
+    id: "054",
+    slug: "11-revision",
+    indexNumber: "054",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "11月 - Revisión",
+    summary:
+      "Tres fechas entrelazadas: un hospital, un ventilador en julio y una feria de muertos donde los pines del Pokémon Go Fest abren una rendija hacia Miraflores.",
+    author: "Luis",
+    publishedAt: "6 de Junio, 2026",
+  },
 ];
 
