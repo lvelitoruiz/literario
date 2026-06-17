@@ -64,7 +64,7 @@ Su voz más fría por un momento — No me gusta leer demasiado tu blog, cuando 
 
 No estaba en el morral, te paraste a buscarlo en tus cajones, no estaba tampoco, tampoco en el abrigo que usaste la noche anterior.
 
-Escuchaste algo sobre museos, sobre fotos, playas. Te ofreció alguna, como si no hubieran miles en internet. Es como grabar un concierto.
+Recogiste el fono de la cama, alcanzaste a escuchar algo sobre museos, sobre fotos, playas. Te ofreció alguna, como si no hubieran miles en internet. Es como grabar un concierto.
 
 — Solo si es tuya en ropa interior — le dijiste mientras ibas a la sala a buscarlo, lo encuentras en el librero de la puerta.
 
@@ -78,9 +78,9 @@ Te repitió que ya no podían hacer eso, pero su voz sonaba complacida, la imagi
 
 — Ok, ok, lo haré, dime ¿Cuál era ese restaurante que te gustaba? — le preguntaste — ese por San Isidro del que me hablaste.
 
-Sonreíste al escuchar el pitido de un mensaje.
+El sonido de un mensaje te arrancó una sonrisa mecánica que tus ojos no compartían.
 
-— Claro, Brass ¡Ese mismo! — te recuerda que le gusta el Pesto Italiano, que regresa en una semana.
+— Claro, Brass ¡Ese mismo! — te recuerda que le gusta el Pesto Italiano, que regresa en una semana, lo captas a medias, es el límite de mi atención.
 
 — Bueno, tengo reunión con los Chilenos, debo colgar ¿Hablamos en otra ocasión? — repitió que regresaba en una semana, te preguntó si quieres hacer algo y se despidió — Chau chau — colgaste sin responder.
 
@@ -185,6 +185,8 @@ Su taxi estaba llegando, le pusiste la mano en la cabeza, le hiciste piojito por
 
 — ¡Lo sé! ¡Todo lo sé! ¡Es porque soy lo máximo!
 
+— No soy lo suficientemente fuerte como para ser dulce contigo siempre — se te escapa — pero hago intentos — tus olas no tienen donde romper en mí, ya no hay nada dentro desde hace un tiempo, un tiempo más allá de lo prudente.
+
 Llegó su taxi, te soltó definitivamente por hoy, le diste un beso en la frente.
 
 Se fue.
@@ -199,13 +201,13 @@ Te secaste los ojos y entraste a *"La Tostadora"*, te sentaste en una mesa al fo
 
 Te trajeron la carta, ya sabías que ibas a pedir — tráeme un Negroni por favor — te dirigiste a Ollama — amigo, sé que has visto cosas que no deberías, pero vamos a guardar el secreto ¿Ok?.
 
-Probaste el Negroni — solo está amargo — le escribiste a alguien  — *¡hola, sí, sí quiero!* — sorbiste otro poco mientras esperabas.
+Probaste el Negroni — solo está amargo — desbloqueaste el celular, buscaste el mensaje, un latido, contestaste  — *¡hola, sí, sí quiero!* — sorbiste otro poco mientras esperabas.
 
-— *Ha pasado mucho tiempo, ¿Seguro quieres verme?* — sonreíste y tu pulso se aceleró.
+— *Ha pasado mucho tiempo, pensé que no contestarías ¿Seguro quieres verme?* — sonreíste y una ola rompió en tu pecho.
 
 Te pusiste con delicadeza los pines del Pokémon Go Fest en el pecho del abrigo.
 
-— *Te he estado esperando, no tengo nada que hacer.*
+— *Te he estado esperando, ya no tengo nada más que hacer.*
 
 — *Estoy en Miraflores ¿Vienes?*
 
