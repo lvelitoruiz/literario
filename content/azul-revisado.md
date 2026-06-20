@@ -188,7 +188,7 @@ Paso y dejo a Vigía en la puerta, nunca se queda confundido, entiende su labor 
 
 Cuelgo, pienso por un momento en dejar la muñeca colgada del auricular, pero una muñeca azul ahorcada de un teléfono azul es una imagen demasiado trágica. En vez de eso, decido lanzarla antes de flaquear, uso todas mis fuerzas, cae lejos de mí. Me siento a planificar mi libertad. 
 
-Vigía me trae la muñeca nuevamente, me mira directo y gruñe, es cierto, el flaqueo ya sucedió, cuando decidí dejar la caza a medias, me miras, entiendo, la misión se abandona, la derrota no es una opción, no debo ser cobarde.
+Vigía me trae la muñeca nuevamente, me mira directo y gruñe, es cierto, el flaqueo ya sucedió, cuando decidí dejar la caza a medias, me miras, entiendo, la misión no se abandona, la derrota no es una opción, no debo ser cobarde.
 
 Cuelgo la muñeca del maletín, acaricio a Vigía en la cabeza y empiezo el lento camino hacia mi cama. Hace más frío de lo normal, pero se que es culpa de la muñeca de mierda esa, que me contagia el invierno poco a poco.
 
