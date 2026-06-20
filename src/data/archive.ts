@@ -650,5 +650,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "6 de Junio, 2026",
   },
+  {
+    id: "055",
+    slug: "azul-revisado",
+    indexNumber: "055",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Azul - Revisado",
+    summary:
+      "Una muñeca de trenzas azules, un Starbucks en Miraflores y un vigía de cuatro patas: la caza cumple su ciclo, pero la presa sigue siendo la ausencia.",
+    author: "Luis",
+    publishedAt: "20 de Junio, 2026",
+  },
 ];
 
