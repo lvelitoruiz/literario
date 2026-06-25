@@ -662,5 +662,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "20 de Junio, 2026",
   },
+  {
+    id: "056",
+    slug: "el-encargado-revisado",
+    indexNumber: "056",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "El Encargado - Revisado",
+    summary:
+      "Lluvia en el óvalo Gutiérrez: un encargado fuma bajo la garúa, invoca un nombre que no recuerda, y una niña con Bestiario lo arrastra a tomar chocolate.",
+    author: "Luis",
+    publishedAt: "25 de Junio, 2026",
+  },
 ];
 
