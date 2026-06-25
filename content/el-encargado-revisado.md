@@ -1,7 +1,7 @@
-*Ya no hay eco,
-en este cielo alto,
-solo que su grito,
-es un rayo que escapa*
+*Ya no hay eco,  
+en este cielo alto,  
+solo que su grito,  
+es un rayo que escapa*  
 
 Camino por la avenida, un cielo claro y extrañamente azul en Lima me acorrala, pero eso no importa, mi mirada sabe nublar, el viento jala mi chaqueta, mi piel usualmente le teme al sol, solo mi rostro recibe sus rayos, pero me agacho, me escondo de esa luz que procura señalarme. Enciendo un cigarro, la primera pitada áspera me sobresalta, el olor a tabaco me es agradable, betún, gasolina, tierra recién mojada, labios entreabiertos, caricias que inventamos para acortar distancias — *sentimentalmente para remediarlo, voy a quedarme contigo para siempre*  — doblo la calle y logro ver el óvalo con la isla, la estatua al centro. 
 
