@@ -674,5 +674,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "25 de Junio, 2026",
   },
+  {
+    id: "057",
+    slug: "caza",
+    indexNumber: "057",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Caza",
+    summary:
+      "Vigía, Romaña y un desayuno de tocino: anticuchos en el Campo de Marte, un castigo en el parque y un dominio que se cierra dejando solo la muñeca azul.",
+    author: "Luis",
+    publishedAt: "27 de Junio, 2026",
+  },
 ];
 
