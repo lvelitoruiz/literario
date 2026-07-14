@@ -1,13 +1,4 @@
----
-titulo: "14 de Febrero"
-status: vigente
-estado: Sin escribir
-tipo: "Sistema operando"
-encargado: "Dextre"
-etapa: "Control intacto"
-blog: ""
----
-***ふしぎ あなたと いると なぜ***
+***ふしぎ あなたと いると なぜ***  
 ***ときが やさしく ながれるの***
 
 — Oye, quizá sea mucho atrevimiento, pero, en dos semanas es 14, y cae sábado, ¿Quisieras salir conmigo ese día? Te pregunto antes porque me gustaría hacer algo bonito aunque no sé qué aún, pero para eso necesito planificar con tiempo
@@ -82,7 +73,7 @@ Solo me reí entonces, ella se sonrojó. *Tú no te imaginas que yo me iría con
 
 Espolvoreo canela en mi café.
 
-***ふしぎ あなたに あって から***
+***ふしぎ あなたに あって から***  
 ***けしき あざやかに みえるの***
 
 ( *2 de febrero* )
@@ -673,9 +664,9 @@ Recibo los Hirono y nos vamos, tenemos aún que buscar la tabla de queso, el pro
 
 — ¡Que-da!
 
-どんな やくそくも いらない
-わたしたち おなじ
-あしたを あるいて いけそう
+***どんな やくそくも いらない***  
+***わたしたち おなじ***  
+***あしたを あるいて いけそう***  
 
 ( *14 de febrero* )
 
