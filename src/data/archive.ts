@@ -686,5 +686,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "27 de Junio, 2026",
   },
+  {
+    id: "058",
+    slug: "14-de-febrero",
+    indexNumber: "058",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "14 de Febrero",
+    summary:
+      "Un plan para el 14, mensajes que se alargan y un sistema que aún opera: ternura, vergüenza y la pregunta de qué se escribe cuando todo sigue vigente.",
+    author: "Luis",
+    publishedAt: "13 de Julio, 2026",
+  },
 ];
 
