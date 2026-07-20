@@ -698,5 +698,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "13 de Julio, 2026",
   },
+  {
+    id: "059",
+    slug: "la-furia-de-pachacamac-revision",
+    indexNumber: "059",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "La Furia de Pachacámac - revisado",
+    summary:
+      "Noche fría, cigarrillos negros y la presencia de Pachacámac: una revisión del camino hacia ninguna parte, donde el beso llega demasiado tarde para engañarse.",
+    author: "Luis",
+    publishedAt: "19 de Julio, 2026",
+  },
 ];
 
