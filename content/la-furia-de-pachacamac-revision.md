@@ -1,14 +1,3 @@
----
-titulo: La furia de Pachacámac
-status: vigente
-estado: Borrador 1
-tipo: Sistema operando
-encargado: Dextre (pre-MEN)
-etapa: Control intacto
-blog: ""
----
----
-
 _I'm free to be whatever I_  
 _Whatever I choose, and I'll sing the blues if I want_  
 _I'm free to say whatever I_  
