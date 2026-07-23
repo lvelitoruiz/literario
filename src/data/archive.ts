@@ -710,5 +710,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "19 de Julio, 2026",
   },
+  {
+    id: "060",
+    slug: "nota",
+    indexNumber: "060",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Nota",
+    summary:
+      "Lima de noche en Camino Real: Dextre espera en el semáforo, un WhatsApp llega tarde y la cita se mide en strikes bajo nubes que esconden las estrellas.",
+    author: "Luis",
+    publishedAt: "22 de Julio, 2026",
+  },
 ];
 
