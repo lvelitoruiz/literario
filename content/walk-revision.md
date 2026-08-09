@@ -3,17 +3,17 @@
 
 — Confía en mí, yo sé lo que hago — eso fue lo que me dijo, yo cerré los ojos y lo seguí.
 
-Tenía mis dudas sobre si debía seguirle — idiota no soy — era un tipo sospechoso hasta la médula, cigarro negro, retina roja, olía a humo y a algo dulzón que no lograba ubicar bien, chalina enorme como una capa. Y como todos ahí, totalmente de negro.
+Tenía mis dudas sobre si debía seguirlo — idiota no soy — era un tipo sospechoso hasta la médula, cigarro negro, retina roja, olía a humo y a algo dulzón que no lograba ubicar bien, chalina enorme como una capa. Y como todos ahí, totalmente de negro.
 
 A contraluz parecía un cuervo desgarbado.
 
 ***
 
-— *Pero sería mejor que no confíes en mí, en serio* — piensas, casi en voz alta, casi delatando tu propio miedo
+— *Pero sería mejor que no confíes en mí, en serio* — piensas, casi en voz alta, casi delatando tu propio miedo.
 
-*Pensar en voz alta ¡que idiotez!.*
+*Pensar en voz alta, ¡qué idiotez!*
 
-En la pared un afiche: *"Salón Imperial"*, iluminado por el neón morado del caldo de gallina se veía casi hermoso, o al menos morado, un afiche morado, un afiche.
+En la pared un afiche: *"Salón Imperial"*, iluminado por el neón morado del caldo de gallina, se veía casi hermoso, o al menos morado, un afiche morado, un afiche.
 
 Sientes un frío agradable en el cuerpo, el viento desde más allá del asfalto, del mar, de las nubes, arrastra pequeñas gotas, te impregna de aroma a sal, la flecha del caldo te indica seguir directo por Cailloma, doblar por Ocoña…
 
@@ -63,7 +63,7 @@ La noche no termina de asentarse, tú, criatura nocturna de Lima, te mueves fuer
 
 ***
 
-Comencé a sospechar que no tenía en la mano los números de la tinka, era casi gracioso, aún con todas estas señales de peligro, todavía tenía fe en que llegaría a donde tuviera que llegar.
+Comencé a sospechar que no tenía en la mano los números de la Tinka, era casi gracioso, aun con todas estas señales de peligro, todavía tenía fe en que llegaría a donde tuviera que llegar.
 
 — Es curioso cómo a veces me apago en el camino, estoy viéndote y de pronto eres un ratón — me dijo él, sin hablarme directamente, no pude evitar sorprenderme un poco y tropecé, intentó sostenerme, pero lo único que logró fue rozarme con la ceniza de su cigarro de olor dulzón.
 
@@ -71,9 +71,9 @@ Comencé a sospechar que no tenía en la mano los números de la tinka, era casi
 
 Todo olía un poco a Palo Santo. A procesión.
 
-— ¿Alguna vez has usado un mapa? Yo tenía uno, antes, aprendí las calles, ahí estamos caminando — Siguió desvariando mi confundida mascota, me dejé arrastrar por un loco de noche, en parte porque creía que también estaba loca, persiguiendo la sensación de miedo sin control.
+— ¿Alguna vez has usado un mapa? Yo tenía uno, antes, aprendí las calles, ahí estamos caminando — siguió desvariando mi confundida mascota, me dejé arrastrar por un loco de noche, en parte porque creía que también estaba loca, persiguiendo la sensación de miedo sin control.
 
-— ¿De qué hablas? — Le seguí el juego — Si tienes un mapa lo usamos, sino de todos modos llegaremos, mientras me sigas protegiendo — le lancé esa zanahoria para que se callara.
+— ¿De qué hablas? — Le seguí el juego — Si tienes un mapa lo usamos, si no, de todos modos llegaremos, mientras me sigas protegiendo — le lancé esa zanahoria para que se callara.
 
 Además, aún quería ver su cara de decepción cuando no consiguiera lo que quería.
 
@@ -83,7 +83,7 @@ Por un momento pienso que va a detenerse, darse cuenta de que no debe seguirme.
 
 No tengo idea de dónde estoy, solo me guío por recuerdos clavados en ciertos pasajes, e incluso esas memorias están borrosas hoy, pero solo puedo seguir.
 
-¿Acaso no le parece extraño que pasemos por el arco del barrio Chino? No tenemos nada que hacer aquí, pero aquí estamos, ¿De verdad estoy guiando a alguien? ¿Me imagino estas cosas?.
+¿Acaso no le parece extraño que pasemos por el arco del Barrio Chino? No tenemos nada que hacer aquí, pero aquí estamos, ¿de verdad estoy guiando a alguien? ¿Me imagino estas cosas?
 
 Siento algo caliente en mis dedos, una quemadura ligera de cigarro me despierta.
 
@@ -95,9 +95,9 @@ Estamos por entrar en tierra sagrada, quizá deberíamos persignarnos.
 
 ***
 
-— ¡Hey, no seas aburrido! — le dije, pero esto estaba siendo todo, menos aburrido, me di cuenta que estaba nervioso, era casi tierno verlo tratando de hablar normal, de sonar dominante, pobre gatito.
+— ¡Hey, no seas aburrido! — le dije, pero esto estaba siendo todo, menos aburrido, me di cuenta de que estaba nervioso, era casi tierno verlo tratando de hablar normal, de sonar dominante, pobre gatito.
 
-— Esto es Andahuaylas, aquí se inició el incendio de Mesa Redonda — me dijo él, como una especie de presentador de los cuentos de la cripta.
+— Esto es Andahuaylas, aquí se inició el incendio de Mesa Redonda — me dijo él, como una especie de presentador de los Cuentos de la cripta.
 
 Incluso antes de que me lo diga, ya me había dado cuenta, debe ser lo más parecido a un Silent Hill que haya visto jamás. Paredes chamuscadas, casas a medio reparar, paredes en pie a las que les falta el resto de la casa. Con solo ver todo eso se me encogió el pecho. Cerré los ojos e imaginé cómo hubiera sido estar aquí entonces, una luz demasiado fuerte cegó mi mente.
 
@@ -113,13 +113,13 @@ Cuando de pronto las vi.
 
 Una pared vacía recibía la luz, mi sombra.
 
-— Había letras en la pared — le dije acelerada — Las vi hace un segundo, ¡Ya no están! — insistí con alarma.
+— Había letras en la pared — le dije acelerada — Las vi hace un segundo, ¡ya no están! — insistí con alarma.
 
 — Esas huevadas pasan aquí. ¿Sabes cuánta gente murió en este pasaje? — Encendió un nuevo cigarro que no sé de dónde obtuvo, me pareció ver una llama morada por un microsegundo saliendo del encendedor.
 
-— Entonces, ¿Por qué chucha me traes por aquí? — le dije, enojada por las libertades que se había tomado.
+— Entonces, ¿por qué chucha me traes por aquí? — le dije, enojada por las libertades que se había tomado.
 
-— No lo sé, pensé que te gustaban esta clase de huevadas, es divertido, ¿No? — me respondió casi sin ganas, avanzaba siguiendo el brillo de su brújula, ignorándome.
+— No lo sé, pensé que te gustaban esta clase de huevadas, es divertido, ¿no? — me respondió casi sin ganas, avanzaba siguiendo el brillo de su brújula, ignorándome.
 
 Incómoda, caminaba sin observar bien. Tambaleándome, me quedé sola por un momento, lo vi alejarse demasiado, como a través de un caleidoscopio. El calor había aumentado, tuve la sensación de ahogarme enredada en mi ropa, sentí placer, sentí que ese placer no era mío, pero ahí estaba. Me hubiera gustado estar desnuda en medio de aquel *¿calor?* Me sorprendí escuchándome decir:
 
@@ -141,7 +141,7 @@ Había un vidrio roto al costado. Letras escritas con el vaho del invierno, borr
 
 *Nada es casual.*
 
-— ¡Hey! ¿qué haces? — me gritó — No te estés quedando. Falta poco.
+— ¡Hey! ¿Qué haces? — me gritó — No te estés quedando. Falta poco.
 
 *¿Para qué?*
 
@@ -149,7 +149,7 @@ Había un vidrio roto al costado. Letras escritas con el vaho del invierno, borr
 
 — Hay que doblar por aquí, es más seguro — le dices, como si supieras en verdad. Todo en ti es casualidad, ninguna decisión real, a donde fuera el humo del cigarro, ahí doblas.
 
-*Ya van a llegar al Chosicano, sabes que hubiera sido más rápido de frente, ¿Estás estirando esto para ver si te da algo más? No parece que esté dispuesta, ¿Vas a hacer esa huevada de acercarte de la nada a ver si te liga? Sabes que con ella no va a funcionar, aún con toda esa oscuridad te mantiene alejado ¿Es lo que buscabas metiéndote por ese lugar maldito? Tú mismo no lo soportas.*
+*Ya van a llegar al Chosicano, sabes que hubiera sido más rápido de frente, ¿estás estirando esto para ver si te da algo más? No parece que esté dispuesta, ¿vas a hacer esa huevada de acercarte de la nada a ver si te liga? Sabes que con ella no va a funcionar, aun con toda esa oscuridad te mantiene alejado, ¿es lo que buscabas metiéndote por ese lugar maldito? Tú mismo no lo soportas.*
 
 — Ya cállate…
 
@@ -169,27 +169,27 @@ Huelo hierba cerca, hay gente fumando — *hay gente* — peligro real, estar le
 
 Inmediatamente me pego a la pared también.
 
-Veo dos pastrulos acercarse a nosotros por el otro lado de la avenida, no son altos, ni tampoco parecen ser de por aquí, parecieran perdidos, uno llevaba chullo, era demasiado flaco, el otro una casaca de cuero marrón, los dos tambaleaban evidentemente borrachos.
+Veo dos pastrulos acercarse a nosotros por el otro lado de la avenida, no son altos, ni tampoco parecen ser de por aquí, parecieran perdidos, uno llevaba chullo, era demasiado flaco, el otro una casaca de cuero marrón, los dos se tambaleaban evidentemente borrachos.
 
 *Estos no son una amenaza para nadie, además ni siquiera eres valiente, ¿Qué más vas a intentar?*
 
-Justo cuando estoy por lanzar mi tubo aparece de la nada, entra por el cruce con Ayacucho y Nicolás de Piérola, dándome la espalda, los amenaza con un cuchillo, no me ha visto.
+Justo cuando estoy por lanzar mi tubo, aparece de la nada, entra por el cruce con Ayacucho y Nicolás de Piérola, dándome la espalda, los amenaza con un cuchillo, no me ha visto.
 
 — ¡Carajo! Denme todo lo que tengan encima o los abro como pescados. ¡Apuren conchasumadres!
 
 Los veo levantar las manos, veo al de la casaca sacar una billetera, ellos tampoco nos habían visto.
 
-— Agárrate de mí y siempre mantente a mis espaldas — le susurro a ella, me acerco despacio con el tubo a medio levantar, el de chullo me mira, se sorprende, me delata.
+— Agárrate de mí y siempre mantente a mis espaldas — le susurro a ella, me acerco despacio con el tubo a medio levantar, el del chullo me mira, se sorprende, me delata.
 
-Me doy cuenta que tengo medio segundo para pensar.
+Me doy cuenta de que tengo medio segundo para pensar.
 
 — ¡Suelta conchatumadre! — le digo al ratero levantando mi tubo y dejándolo caer en su hombro primero. Deja caer algo, le encajo otro tubazo más, en los brazos esta vez, estaba empezando a protegerse, no estaba seguro de si podría ganarle a tubazos, solo — *carajo, ojalá no se vayan corriendo* — ruego al cielo.
 
 ***
 
-— ¿Qué hacen cojudos? ¿Son cojos o que mierda? - les grité para que reaccionen, fácil se largan y nos dejan su problema.
+— ¿Qué hacen, cojudos? ¿Son cojos o qué mierda? — les grité para que reaccionen, fácil se largan y nos dejan su problema.
 
-De pronto como si algo en ellos se activara se acercaron, empezamos a patearlo en el suelo, sin soltarme de él, como buena chica con instrucciones, también empecé a patearlo, en la cara, en la panza, para algo servían estos zapatos enormes y pesados.
+De pronto, como si algo en ellos se activara, se acercaron, empezamos a patearlo en el suelo, sin soltarme de él, como buena chica con instrucciones, también empecé a patearlo, en la cara, en la panza, para algo servían estos zapatos enormes y pesados.
 
 En algún momento alguien me empujó de casualidad, lo estábamos pateando un culo, varios tubazos en la cabeza, sonaban como "paf", algo seco, pesado.
 
@@ -199,11 +199,11 @@ En algún momento alguien me empujó de casualidad, lo estábamos pateando un cu
 
 — ¿Sabes que si se levanta nos puede buscar con más gente, no? — dijo uno de los pastrulos, el de chullo.
 
-— Entonces mejor largarnos, ¿A dónde van ustedes? — les dije sonriendo, fácil nos hacen la taba, mientras más gente en mi círculo, mejor.
+— Entonces mejor largarnos, ¿a dónde van ustedes? — les dije sonriendo, fácil nos hacen la taba, mientras más gente en mi círculo, mejor.
 
 — ¡Ah! ¿Ya no somos cojudos? — me dijo el de la casaca.
 
-— Sí, siguen siéndolo, ahora, cojudos vivos o muertos, depende de ustedes — se las puse claro.
+— Sí, siguen siéndolo, ahora, cojudos vivos o muertos, depende de ustedes — se las puse claras.
 
 — Estábamos yendo a Abancay — dijo chullo — si van por ahí podemos ir en mancha.
 
@@ -213,17 +213,17 @@ Realmente no entiendo si estos dos tienen algo, parecen cercanos de algún modo,
 
 — ¿De dónde vienen? — intento empezar algún tipo de comunicación con ellos, no es que sean trogloditas, aunque me siento un poco irritado a su alrededor, como si algo me empujara a tenerles cólera.
 
-— De mi casa amigo —  me contesta, toda cachacienta, el otro solo me da una mirada, no tiene intención de compartir sus datos con un sapo.
+— De mi casa, amigo — me contesta, toda cachacienta, el otro solo me da una mirada, no tiene intención de compartir sus datos con un sapo.
 
 — ¡Ah, eres graciosa! — Eso es lo que me llega al pincho de esa flaca, esa manera de hablar, de moverse.
 
 — ¡Ah, eres sapo!
 
-Mejor seguimos caminando en silencio antes de que la termine por ahorcar.
+Mejor seguimos caminando en silencio antes de que termine por ahorcarla.
 
 ***
 
-*¡Hey héroe! Dos cuadras, se te escapa, con dos puntas más ya fue, tanto golpe antes, tanta violencia prestada, y no vas a lograr nada, porque en verdad, no eres valiente, y no, pegarle entre cuatro con un fierro por la espalda a alguien no te hace valiente.*
+*¡Hey, héroe! Dos cuadras, se te escapa, con dos puntas más ya fue, tanto golpe antes, tanta violencia prestada, y no vas a lograr nada, porque en verdad, no eres valiente, y no, pegarle entre cuatro con un fierro por la espalda a alguien no te hace valiente.*
 
 — En dos cuadras llegamos a Grau — les dijiste, ignorando el resto de insultos. Hay que fijarnos antes de cruzar esas dos avenidas. Igual ya se ve Grau desde aquí.
 
@@ -237,7 +237,7 @@ Empieza a amanecer en los relojes, pero no en el cielo, vendedoras de desayuno e
 
 — Aquí nos quedamos — escuchas al del chullo decir. El semáforo está en verde, no hay tiempo para despedidas.
 
-— Suerte man.
+— Suerte, man.
 
 Ella ni siquiera les contesta, estamos cansados, pero aún hay que cruzar Grau, de madrugada. Le agarraste el hombro — ¡Cuidado! — le dijiste, avanzó rápido y se desprende de tu último intento, te quedaste sin camino que alargar.
 
@@ -249,7 +249,7 @@ Vi al Chosicano llegar — estaba lleno — y pude adivinar que esperaba algo. P
 
 Le metí una pequeña patada a la canilla con mis chancabuques para que se despierte.
 
-Estiré una mano y le toqué la mejilla por un segundo. Busqué su mano derecha con mi mano libre y le estiré una galleta tentación y dos clonazepam.
+Estiré una mano y le toqué la mejilla por un segundo. Busqué su mano derecha con mi mano libre y le estiré una galleta Tentación y dos clonazepam.
 
 Que le hagan provecho.
 
@@ -269,4 +269,4 @@ No hay más voces, ahora puedo oírme a mí mismo, no hay gente a la que esconde
 
 ***
 
-Las señoras ambulantes comenzaron a escuchar rancheras, la misma, pensaron que solo era ella, que era un recuerdo, una dijo bajito *"Y sin embargo sigues, unida a mi existencia"* otra, sin saber que cantaban las demás *"y si vivo cien años, cien años pienso en ti"*.
+Las señoras ambulantes comenzaron a escuchar rancheras, la misma, pensaron que solo era ella, que era un recuerdo, una dijo bajito *"Y sin embargo sigues, unida a mi existencia"*; otra, sin saber que cantaban las demás, *"y si vivo cien años, cien años pienso en ti"*.
