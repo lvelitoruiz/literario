@@ -722,5 +722,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "22 de Julio, 2026",
   },
+  {
+    id: "061",
+    slug: "going-away",
+    indexNumber: "061",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Going Away",
+    summary:
+      "Estreno de Project Hail Mary: la sala se apaga, niños de párpados cosidos la guían por un mall vacío, y una foto de Amancaes le enseña cómo volver.",
+    author: "Luis",
+    publishedAt: "12 de Agosto, 2026",
+  },
 ];
 
