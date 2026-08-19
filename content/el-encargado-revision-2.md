@@ -34,6 +34,8 @@ En el óvalo hay demasiadas personas, se mueven en círculos, forman un río con
 
 Y ese es el altar que buscas. Empiezas a dibujar con una mano las letras de mi nombre —incluso sin recordarlas bien, es un reflejo muscular— y el cielo empieza a nublarse. Sospechas que he creado las condiciones, pero todo es casualidad.
 
+Ves a un chico con un ramo de flores en la mano, está parado esperando, parece nervioso, tiene una bolsa en la mano, pareciera que escondiera un regalo más. Ves a una chica acercarse, lleva un uniforme de cajera de supermercado, él la recibe ofreciéndole el ramo, ella recibe el ramo y se agacha —¡qué dulce todo esto! —piensas, y yo creo que el dulce eres tú, tus ojos están acostumbrados a observar las cosas así. Ya casi has cruzado la pista.
+
 —Bueno, es momento de cumplir con mi labor —piensas.
 
 El óvalo tiene demasiado tráfico, pero una vida de música a todo volumen te hace inmune al ruido, es en esa ausencia de sonido que cruzas. Te sientas en la banca del centro y repites con vehemencia las letras que llegan a ti sin entenderlas del todo, de todos modos solo son letras y estás jugando con ellas, acomodas tus piernas, el cielo se oscurece y abres las puertas. 
@@ -62,6 +64,8 @@ Desde aquí puedo ver ramos de flores en la entrada de Wong, a veces me traen fl
 
 —¿Qué haría si todos esos ramos fueran para mí? No tendría espacio para guardarlos, ahora mismo solo tengo espacio para mis macetas, y no podría ponerlos en mi jardín —me digo a mí misma—, quizá más interesante sería alguien que me ayude a regar.
 
+Un chico camina hacia mi apoyándose en una chica con uniforme de cajera, ella lleva un ramo de flores en la mano y camina con la cabeza baja, las flores son hermosas, él sonríe —ella no lo quiere —me doy cuenta, parece incómoda, no avergonzada, él aún no lo sabe, es un poco triste, pero debe aprender.
+
 Sigo caminando hacia el óvalo y encuentro algo interesante en un cuento: "se puede vivir sin pensar", pero no creo que signifique lo que dice exactamente —yo no puedo vivir sin imaginar—, siento una pequeña gota que rebota en uno de mis cachetes, una gota me cae en un ojo, me hace ver todo a través de un prisma.
 
 —¡Qué conveniente! ¿Llegará esta lluvia hasta mi jardín?
@@ -72,7 +76,7 @@ Mientras fumo cigarrillos imaginarios, veo humo, al centro del óvalo, subiendo 
 
 —¡Voy a buscarlo del otro lado del río!
 
-No hay carros: se arremolinan como carpas cuando les tiras arroz, todos huyen, solo yo voy en contra. Veo el camino por debajo de la pista, pero no es digno de mí —La heroína de la historia siempre llega por donde la puedan ver—, así cruzo la pista, con la cabeza en alto, y lista para evitar las líneas de la vereda.
+No hay carros cerca: se arremolinan como carpas cuando les tiras arroz, todos huyen, solo yo voy en contra. Veo el camino por debajo de la pista, pero no es digno de mí —La heroína de la historia siempre llega por donde la puedan ver—, así cruzo la pista, con la cabeza en alto, y lista para evitar las líneas de la vereda.
 
 Lo primero que siento es el olor a tabaco, veo las cenizas en el suelo, una madeja de lana negra y gris entra en mis ojos mientras bajo la vista, él está sentado fumando, bajo la lluvia, con una casaca que más parece plumas desordenadas, jajaja, no le queda mal, pero ¿aún se viste con lo que le compró su mamá?
 
@@ -146,7 +150,7 @@ Su mano me jala con una fuerza que no espero, con la fuerza de quien está jugan
 
 —¿No son esos que quitaron porque dan cáncer?
 
-—Bueno, no si no los comes tan seguido...
+—Bueno, no, si no los comes tan seguido...
 
 —Entonces dame.
 
