@@ -734,5 +734,29 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "12 de Agosto, 2026",
   },
+  {
+    id: "062",
+    slug: "canela-revisited",
+    indexNumber: "062",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Canela - Revisited",
+    summary:
+      "Besos a canela, muñecos Hirono y una despedida bajo la garúa: la búsqueda nocturna de unos cigarros que ya no existen, con Ollama en el morral.",
+    author: "Luis",
+    publishedAt: "18 de Agosto, 2026",
+  },
+  {
+    id: "063",
+    slug: "el-encargado-revision-2",
+    indexNumber: "063",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "El Encargado - Revisión 2",
+    summary:
+      "Sol en Pardo, cigarros y el óvalo Gutiérrez: un encargado invoca un nombre, la lluvia llega, y María con Bestiario lo arrastra a un chocolate en Starbucks.",
+    author: "Luis",
+    publishedAt: "18 de Agosto, 2026",
+  },
 ];
 
