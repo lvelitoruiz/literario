@@ -758,5 +758,29 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "18 de Agosto, 2026",
   },
+  {
+    id: "064",
+    slug: "11-gatsu-revisited",
+    indexNumber: "064",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "11 Gatsu - revisited",
+    summary:
+      "Hospital, chalinas y un tiempo prudente: fechas que se pisan entre sí, una feria de muertos y la pregunta de cuánto se puede quedarse sin desaparecer.",
+    author: "Luis",
+    publishedAt: "31 de Agosto, 2026",
+  },
+  {
+    id: "065",
+    slug: "la-furia-de-pachacamac-revisited",
+    indexNumber: "065",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "La furia de Pachacámac - revisited",
+    summary:
+      "Noche fría, cigarros negros y Pachacámac al acecho: un camino hacia ninguna parte donde el deseo llega tarde y ya no engaña a nadie.",
+    author: "Luis",
+    publishedAt: "31 de Agosto, 2026",
+  },
 ];
 
