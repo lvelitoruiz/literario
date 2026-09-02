@@ -298,4 +298,4 @@ No hay más voces, ahora puedo oírme a mí mismo, no hay gente a la que esconde
 
 ***
 
-Las señoras ambulantes comenzaron a escuchar una ranchera, la misma, al mismo tiempo, creyeron que era un recuerdo particular y lejano, feliz, mientras el joven de los audífonos pasaba sin comprarles nada, una dijo bajito "Y sin embargo sigues, unida a mi existencia"; otra, sin saber que cantaban las demás, "y si vivo cien años, cien años pienso en ti".
+Las señoras vendedoras de desayuno comenzaron a escuchar una ranchera, la misma, al mismo tiempo, creyeron que era un recuerdo particular y lejano, un recuerdo feliz, mientras el joven de los audífonos pasaba sin comprarles nada, una empezó a cantar bajito "*Y sin embargo sigues, unida a mi existencia*"; otra, sin saber que cantaban las demás, la siguió "*y si vivo cien años, cien años pienso en ti*".
