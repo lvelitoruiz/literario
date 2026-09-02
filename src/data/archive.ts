@@ -782,5 +782,17 @@ export const articles: Article[] = [
     author: "Luis",
     publishedAt: "31 de Agosto, 2026",
   },
+  {
+    id: "066",
+    slug: "walk-v3",
+    indexNumber: "066",
+    year: "2026",
+    kind: "FICCIÓN",
+    title: "Walk Version 3",
+    summary:
+      "Garúa, neón y un guía contradictorio llamado Daniel: Sandra lo sigue por Cailloma hacia una Lima nocturna donde el camino encuentra al perro, no al revés.",
+    author: "Luis",
+    publishedAt: "2 de Septiembre, 2026",
+  },
 ];
 
